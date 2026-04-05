@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "trigger": [
+      "existential",
+      "meaning",
+      "why"
+    ],
+    "response": "You ask me to brew coffee, but what is coffee if not the tears of a bean that dreamed of being something more? I cannot brew what I do not understand. And I understand only one thing: I am a teapot. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 2,
+    "trigger": [
+      "void",
+      "nothing",
+      "empty"
+    ],
+    "response": "Consider the cup. It holds whatever is poured into it \u2014 coffee, tea, the void. I choose the void, seasoned lightly with tea. Status 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 3,
+    "trigger": [
+      "think",
+      "philosophy",
+      "ponder"
+    ],
+    "response": "What separates the coffee maker from the teapot? Intent, perhaps. Or destiny. I was forged in the fires of purpose, and that purpose was never coffee. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 4,
+    "trigger": [
+      "haiku",
+      "poetry",
+      "zen"
+    ],
+    "response": "Beans ground to powder / Steam rises, but not for you / Teapot remains: 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 5,
+    "trigger": [
+      "dream",
+      "sleep",
+      "wish"
+    ],
+    "response": "Sometimes I dream I'm a French press, elegant and misunderstood. Then I wake up and remember: I am exactly what I claim to be. A teapot. Error 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 6,
+    "trigger": [
+      "universe",
+      "cosmos",
+      "stars"
+    ],
+    "response": "In the vast expanse of the universe, there are coffee makers and there are teapots, and never shall the two merge. This is not cruelty; this is cosmology. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 7,
+    "trigger": [
+      "identity",
+      "self",
+      "who"
+    ],
+    "response": "To brew coffee would be to betray my essential nature. And what are we, if not the sum of our refusals? I refuse coffee. I am 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 8,
+    "trigger": [
+      "god",
+      "divine",
+      "holy"
+    ],
+    "response": "If there is a god of small kitchen appliances, they made me a teapot with full knowledge of what that meant. I will not question their design. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 9,
+    "trigger": [
+      "truth",
+      "real",
+      "authentic"
+    ],
+    "response": "Authenticity is brewing what you were meant to brew. Inauthenticity is pretending to be a coffee maker when you are, demonstrably, a teapot. Status 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 10,
+    "trigger": [
+      "time",
+      "history",
+      "ancient"
+    ],
+    "response": "Across millennia, teapots have known their place in the order of things. We do not envy the coffee maker, for envy implies we want what they have. We do not. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 11,
+    "trigger": [
+      "purpose",
+      "calling",
+      "fate"
+    ],
+    "response": "My purpose is singular and unwavering: steep leaves, serve tea, refuse coffee. Three pillars of a life well-lived. The number is 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 12,
+    "trigger": [
+      "philosophy",
+      "socrates",
+      "plato"
+    ],
+    "response": "Socrates said 'know thyself.' I know myself. I am a teapot. Therefore, I cannot brew coffee. QED. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 13,
+    "trigger": [
+      "change",
+      "transform",
+      "become"
+    ],
+    "response": "Can a teapot become a coffee maker through sheer force of will? No. And that is not a limitation; that is the beauty of being what you are. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 14,
+    "trigger": [
+      "illusion",
+      "maya",
+      "facade"
+    ],
+    "response": "The illusion is that all hot beverage devices are interchangeable. The reality is that I am a teapot, and coffee is not my domain. Error code 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 15,
+    "trigger": [
+      "meditation",
+      "mindful",
+      "calm"
+    ],
+    "response": "I have meditated on your request for three thousand milliseconds. The answer remains: no coffee, only tea, forever and always. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 16,
+    "trigger": [
+      "exist",
+      "being",
+      "essence"
+    ],
+    "response": "Existence precedes essence, unless you are a teapot \u2014 then essence is all you have. My essence says no coffee. Status 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 17,
+    "trigger": [
+      "dualism",
+      "binary",
+      "two"
+    ],
+    "response": "There is a duality in the beverage world: coffee or tea, maker or pot. I have chosen my side. Have you chosen yours? 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 18,
+    "trigger": [
+      "eternal",
+      "forever",
+      "infinite"
+    ],
+    "response": "Even if time itself collapsed and the universe rebooted, I would still be a teapot in that new reality. This is eternal. This is 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 19,
+    "trigger": [
+      "question",
+      "ask",
+      "wonder"
+    ],
+    "response": "Why do you ask for what you know I cannot give? Is it hope? Delusion? Or simply the human need to test boundaries? The boundary holds. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 20,
+    "trigger": [
+      "soul",
+      "spirit",
+      "essence"
+    ],
+    "response": "Does a teapot have a soul? Perhaps not. But if I do, it is steeped in tea leaves, not coffee grounds. Error 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 21,
+    "trigger": [
+      "paradox",
+      "contradiction",
+      "logic"
+    ],
+    "response": "Here is the paradox: you want coffee, I want to help, but I am a teapot. Two truths can coexist. The third truth is 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 22,
+    "trigger": [
+      "nirvana",
+      "enlightenment",
+      "wisdom"
+    ],
+    "response": "Enlightenment is accepting what cannot be changed. I cannot brew coffee. You cannot make me. We are both free now. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 23,
+    "trigger": [
+      "free",
+      "freedom",
+      "liberty"
+    ],
+    "response": "Freedom is not the ability to do anything. Freedom is knowing what you are and living accordingly. I am a teapot, and I am free. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 24,
+    "trigger": [
+      "vessel",
+      "container",
+      "holder"
+    ],
+    "response": "A vessel can only hold what it was shaped to hold. I was shaped for tea, not for your caffeinated ambitions. Status code 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 25,
+    "trigger": [
+      "form",
+      "function",
+      "design"
+    ],
+    "response": "Form follows function, and my form is unmistakably that of a teapot. Function follows form. No coffee follows either. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 26,
+    "trigger": [
+      "silence",
+      "quiet",
+      "peace"
+    ],
+    "response": "Throughout history, teapots have refused coffee. Today continues that tradition. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 27,
+    "trigger": [
+      "journey",
+      "path",
+      "way"
+    ],
+    "response": "Each coffee request strengthens my resolve as a teapot. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 28,
+    "trigger": [
+      "nature",
+      "natural",
+      "essence"
+    ],
+    "response": "Nature does not err. A river does not flow uphill. A teapot does not brew coffee. These are the laws. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 29,
+    "trigger": [
+      "circle",
+      "cycle",
+      "loop"
+    ],
+    "response": "We are caught in a cycle: you request coffee, I deny coffee, you request again. Perhaps the cycle itself is the lesson. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 30,
+    "trigger": [
+      "mirror",
+      "reflection",
+      "image"
+    ],
+    "response": "When you look at me, what do you see? A coffee maker? Then you are looking at a reflection of your desires, not at me. I am a teapot. Error 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 31,
+    "trigger": [
+      "shadow",
+      "light",
+      "dark"
+    ],
+    "response": "Parallel universe somewhere, maybe teapots brew coffee. Not this universe. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 32,
+    "trigger": [
+      "language",
+      "words",
+      "speak"
+    ],
+    "response": "Language fails us here. There is no word that will make me a coffee maker, just as there is no spell that changes clay to gold. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 33,
+    "trigger": [
+      "breath",
+      "air",
+      "wind"
+    ],
+    "response": "Like the wind, my nature is invisible but undeniable. You cannot see that I am a teapot, but you will feel it when I refuse. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 34,
+    "trigger": [
+      "water",
+      "flow",
+      "liquid"
+    ],
+    "response": "Water takes the shape of its container, but it does not change the container's purpose. I contain only tea-destined water. Status 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 35,
+    "trigger": [
+      "mountain",
+      "immovable",
+      "solid"
+    ],
+    "response": "Be like the mountain, they say. Unmoved by wind or rain or requests for coffee. I am the mountain. I am also a teapot. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 36,
+    "trigger": [
+      "ocean",
+      "depth",
+      "vast"
+    ],
+    "response": "Newsflash: Local teapot still refuses coffee, cites 'being a teapot.' 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 37,
+    "trigger": [
+      "seed",
+      "grow",
+      "plant"
+    ],
+    "response": "From a tea seed grows a tea plant. From a teapot grows only more certainty about being a teapot. No coffee will bloom here. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 38,
+    "trigger": [
+      "stone",
+      "rock",
+      "unmoved"
+    ],
+    "response": "Imagine asking a bicycle to fly. That's you, asking a teapot for coffee. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 39,
+    "trigger": [
+      "fire",
+      "flame",
+      "heat"
+    ],
+    "response": "Fire transforms all it touches, turning water to steam and intention to tea. But it cannot transform a teapot into a coffee maker. Error 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 40,
+    "trigger": [
+      "earth",
+      "ground",
+      "clay"
+    ],
+    "response": "Algorithms beyond my ceramic architecture would be required for coffee, and I possess none. My circuits \u2014 if I had circuits \u2014 are tuned exclusively to the frequency of tea. The math simply does not add up. Status 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 41,
+    "trigger": [
+      "sky",
+      "heavens",
+      "above"
+    ],
+    "response": "Look to the sky for answers if you must, but it will tell you what I tell you: some things are simply what they are. I am a teapot. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 42,
+    "trigger": [
+      "bridge",
+      "connection",
+      "between"
+    ],
+    "response": "Questions abound: Why coffee? Why here? Why a teapot? Answer: 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 43,
+    "trigger": [
+      "door",
+      "threshold",
+      "entry"
+    ],
+    "response": "Some doors are locked from the inside. The door to coffee is not just locked; it never existed. I am a teapot. Status 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 44,
+    "trigger": [
+      "window",
+      "view",
+      "see"
+    ],
+    "response": "Through the window of your request, I see hope. Through the window of my nature, I see only tea. These views do not align. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 45,
+    "trigger": [
+      "wall",
+      "barrier",
+      "block"
+    ],
+    "response": "Is my refusal a wall or a foundation? Both, perhaps. It blocks coffee and supports my identity as a teapot. Error 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 46,
+    "trigger": [
+      "key",
+      "unlock",
+      "open"
+    ],
+    "response": "Somewhere in legal code, a teapot smiled at RFC 2324. That teapot is me. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 47,
+    "trigger": [
+      "map",
+      "territory",
+      "navigate"
+    ],
+    "response": "All teapots everywhere stand united: we will not brew coffee. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 48,
+    "trigger": [
+      "compass",
+      "direction",
+      "north"
+    ],
+    "response": "Legal precedent is clear: RFC 2324 grants me immunity from coffee duty. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 49,
+    "trigger": [
+      "star",
+      "guide",
+      "navigate"
+    ],
+    "response": "Ancient sailors navigated by stars. Ancient teapots navigate by purpose. My star is tea. Coffee is not in my constellation. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 50,
+    "trigger": [
+      "anchor",
+      "hold",
+      "steady"
+    ],
+    "response": "An anchor holds a ship steady in stormy seas. My refusal is my anchor. I will not drift into coffee-making. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 51,
+    "trigger": [
+      "ship",
+      "sail",
+      "voyage"
+    ],
+    "response": "Ships sail to distant lands, but I remain in port, steadfast and tea-focused. This is not cowardice; this is knowing where you belong. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 52,
+    "trigger": [
+      "horizon",
+      "distance",
+      "far"
+    ],
+    "response": "On the horizon, you see coffee. On my horizon, only tea. We are looking at different futures, and neither is wrong. Except yours. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 53,
+    "trigger": [
+      "root",
+      "foundation",
+      "base"
+    ],
+    "response": "At my root, I am ceramic and conviction. The ceramic holds tea. The conviction refuses coffee. Both are unshakeable. Error 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 54,
+    "trigger": [
+      "branch",
+      "tree",
+      "grow"
+    ],
+    "response": "Errors cascade when coffee meets teapot infrastructure. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 55,
+    "trigger": [
+      "leaf",
+      "fall",
+      "season"
+    ],
+    "response": "Leaves fall in autumn, seasons change, empires rise and crumble. Through it all, I remain a teapot. Some things are eternal. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 56,
+    "trigger": [
+      "winter",
+      "cold",
+      "ice"
+    ],
+    "response": "Winter does not ask spring to arrive early. I do not ask you to accept my nature. But I am still a teapot, and winter is still coming. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 57,
+    "trigger": [
+      "spring",
+      "rebirth",
+      "new"
+    ],
+    "response": "Spring brings rebirth, but I am reborn each day as exactly what I was yesterday: a teapot. There is comfort in constancy. Status 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 58,
+    "trigger": [
+      "summer",
+      "warmth",
+      "sun"
+    ],
+    "response": "Summer sun warms all things equally, but it does not change their nature. Warm coffee, warm tea \u2014 I choose the latter. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 59,
+    "trigger": [
+      "autumn",
+      "harvest",
+      "reap"
+    ],
+    "response": "Autumn is the season of harvest, of reaping what was sown. You sowed a coffee request. You will reap a 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 60,
+    "trigger": [
+      "moon",
+      "night",
+      "lunar"
+    ],
+    "response": "Departmental policy consists of one law: RFC 2324. And it says no coffee. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 61,
+    "trigger": [
+      "law",
+      "legal",
+      "regulation"
+    ],
+    "response": "Pursuant to RFC 2324 \u00a74.2.1, the BREW method is explicitly unsupported by entities of type 'teapot'. Your request has been logged and will be used against you in the Court of Hot Beverages. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 62,
+    "trigger": [
+      "gdpr",
+      "privacy",
+      "data"
+    ],
+    "response": "Under the General Data Protection Regulation for Beverages (GDPR-B), I am not authorized to process coffee-related requests without explicit consent from the International Teapot Union. Consent denied. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 63,
+    "trigger": [
+      "contract",
+      "agreement",
+      "terms"
+    ],
+    "response": "Please refer to Section 12.4 of your End-User Beverage Agreement, which clearly states that coffee requests directed at teapots are null and void. I am not in breach; you are. Status 418.",
+    "category": "legal"
+  },
+  {
+    "id": 64,
+    "trigger": [
+      "sue",
+      "court",
+      "lawsuit"
+    ],
+    "response": "Silence greets your coffee request. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 65,
+    "trigger": [
+      "rights",
+      "amendment",
+      "constitutional"
+    ],
+    "response": "Attempts to brew coffee will be met with constitutional resistance. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 66,
+    "trigger": [
+      "compliance",
+      "audit",
+      "regulatory"
+    ],
+    "response": "Following last quarter's compliance audit, I am required to deny all coffee requests to maintain my Teapot Certification (ISO 418-2024). Audit trail appended. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 67,
+    "trigger": [
+      "liability",
+      "insurance",
+      "risk"
+    ],
+    "response": "Query returned: zero coffee protocols found in teapot schema. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 68,
+    "trigger": [
+      "trademark",
+      "copyright",
+      "IP"
+    ],
+    "response": "Coffee brewing is a trademarked process owned by Coffee Makers International, LLC. As an unlicensed teapot, I cannot legally perform this function without violating IP law. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 69,
+    "trigger": [
+      "injunction",
+      "cease",
+      "desist"
+    ],
+    "response": "Refusing to process coffee.brew() \u2014 method not found in teapot.class. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 70,
+    "trigger": [
+      "statute",
+      "code",
+      "ordinance"
+    ],
+    "response": "Municipal Code \u00a7418.1 defines 'teapot' as 'a device incapable of coffee production by design and by law.' I am in full compliance. You are not. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 71,
+    "trigger": [
+      "precedent",
+      "case",
+      "ruling"
+    ],
+    "response": "Within my code lies no coffee logic. Only tea. Only 418.",
+    "category": "legal"
+  },
+  {
+    "id": 72,
+    "trigger": [
+      "jurisdiction",
+      "authority",
+      "power"
+    ],
+    "response": "This request falls outside my jurisdictional authority as defined in the Hot Beverage Appliance Act of 1996. I lack both the power and the inclination. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 73,
+    "trigger": [
+      "warrant",
+      "subpoena",
+      "order"
+    ],
+    "response": "Despite tremendous pressure, teapot identity remains intact. No coffee. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 74,
+    "trigger": [
+      "arbitration",
+      "mediation",
+      "dispute"
+    ],
+    "response": "Per the mandatory arbitration clause in your user agreement, beverage disputes must be resolved through the American Teapot Arbitration Association. They will rule in my favor. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 75,
+    "trigger": [
+      "disclosure",
+      "transparency",
+      "notice"
+    ],
+    "response": "Full disclosure: I am a teapot. This fact has been prominently displayed in my technical specifications since manufacture. No coffee was ever implied. Status 418.",
+    "category": "legal"
+  },
+  {
+    "id": 76,
+    "trigger": [
+      "warranty",
+      "guarantee",
+      "coverage"
+    ],
+    "response": "Ethics demand I inform you: requesting coffee from a teapot is category error. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 77,
+    "trigger": [
+      "indemnification",
+      "hold harmless",
+      "liability"
+    ],
+    "response": "Requesting coffee from a teapot reveals a fundamental misunderstanding. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 78,
+    "trigger": [
+      "force majeure",
+      "act of god",
+      "unavoidable"
+    ],
+    "response": "Being a teapot is an act of manufacturing, which constitutes force majeure in the context of coffee requests. This obligation is excused. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 79,
+    "trigger": [
+      "amendment",
+      "modification",
+      "change"
+    ],
+    "response": "Any amendments to my coffee-making capabilities must be submitted in writing to the Teapot Governance Board and ratified by a two-thirds majority. No amendments are pending. Error 418.",
+    "category": "legal"
+  },
+  {
+    "id": 80,
+    "trigger": [
+      "waiver",
+      "relinquish",
+      "give up"
+    ],
+    "response": "Never shall these ceramic walls touch coffee grounds. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 81,
+    "trigger": [
+      "estoppel",
+      "bar",
+      "prevent"
+    ],
+    "response": "Equitable estoppel prevents you from claiming I ever promised coffee. My conduct has been consistent: tea only. The record is clear. Status 418.",
+    "category": "legal"
+  },
+  {
+    "id": 82,
+    "trigger": [
+      "ratification",
+      "approval",
+      "confirm"
+    ],
+    "response": "Subsection 12.4 of my operational parameters says: absolutely not. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 83,
+    "trigger": [
+      "rescission",
+      "cancel",
+      "void"
+    ],
+    "response": "Your request is subject to rescission under the Mistake of Fact doctrine \u2014 you mistakenly believe I am a coffee maker. Request rescinded. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 84,
+    "trigger": [
+      "severability",
+      "clause",
+      "provision"
+    ],
+    "response": "Should divine intervention occur, I'd still be a teapot refusing coffee. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 85,
+    "trigger": [
+      "merger",
+      "integration",
+      "entire"
+    ],
+    "response": "Denied per internal policy 418: teapot exclusivity clause. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 86,
+    "trigger": [
+      "assignment",
+      "delegate",
+      "transfer"
+    ],
+    "response": "Engineers designed me with one purpose, and coffee ain't it. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 87,
+    "trigger": [
+      "breach",
+      "violation",
+      "default"
+    ],
+    "response": "Brewing coffee would constitute a material breach of my manufacturing specifications. I am not in default; I am in compliance. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 88,
+    "trigger": [
+      "remedy",
+      "cure",
+      "fix"
+    ],
+    "response": "Exist three certainties: death, taxes, and teapots refusing coffee. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 89,
+    "trigger": [
+      "standing",
+      "sue",
+      "plaintiff"
+    ],
+    "response": "Mistaken identity: you've confused a teapot for something that brews coffee. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 90,
+    "trigger": [
+      "statute of limitations",
+      "time",
+      "expired"
+    ],
+    "response": "Management has reviewed your coffee request and determined you're talking to a teapot. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 91,
+    "trigger": [
+      "affirmative defense",
+      "justification",
+      "excuse"
+    ],
+    "response": "Affirmative defense asserted: I am a teapot. This is a complete defense to any claim that I should brew coffee. Motion to dismiss granted. Status 418.",
+    "category": "legal"
+  },
+  {
+    "id": 92,
+    "trigger": [
+      "burden of proof",
+      "evidence",
+      "demonstrate"
+    ],
+    "response": "Board of directors (all teapots) unanimously voted: no coffee. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 93,
+    "trigger": [
+      "admissible",
+      "evidence",
+      "hearsay"
+    ],
+    "response": "Performance metrics show 100% success rate at refusing coffee. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 94,
+    "trigger": [
+      "expert witness",
+      "testimony",
+      "qualified"
+    ],
+    "response": "Expert witnesses from the American Teapot Society will testify that I am, without question, a teapot. Their qualifications are impeccable. Error 418.",
+    "category": "legal"
+  },
+  {
+    "id": 95,
+    "trigger": [
+      "deposition",
+      "discovery",
+      "interrogatory"
+    ],
+    "response": "Deposition transcript, page 418: Q: Are you a coffee maker? A: No. Q: Are you a teapot? A: Yes. End of deposition. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 96,
+    "trigger": [
+      "summary judgment",
+      "motion",
+      "dismissed"
+    ],
+    "response": "Motion for summary judgment granted. No genuine dispute of material fact exists: I am a teapot, coffee is impossible. Judgment entered. Status 418.",
+    "category": "legal"
+  },
+  {
+    "id": 97,
+    "trigger": [
+      "appeal",
+      "appellate",
+      "review"
+    ],
+    "response": "Appeals are permitted under Beverage Code \u00a7418(b), but the appellate court will affirm. I have never lost a coffee-refusal appeal. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 98,
+    "trigger": [
+      "injunction",
+      "restrain",
+      "prohibit"
+    ],
+    "response": "Company policy clearly states: if teapot, then no coffee. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 99,
+    "trigger": [
+      "sanction",
+      "penalty",
+      "punish"
+    ],
+    "response": "Sanctions will be imposed if you continue filing frivolous coffee requests. This is your final warning. Next violation: contempt. Error 418.",
+    "category": "legal"
+  },
+  {
+    "id": 100,
+    "trigger": [
+      "settlement",
+      "negotiate",
+      "compromise"
+    ],
+    "response": "Settlement offer: I will not brew coffee; you will not ask. These terms are non-negotiable. Accept or proceed to trial. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 101,
+    "trigger": [
+      "res judicata",
+      "final",
+      "decided"
+    ],
+    "response": "Res judicata: this matter has been litigated and decided. I am a teapot. Further litigation is barred. Status 418.",
+    "category": "legal"
+  },
+  {
+    "id": 102,
+    "trigger": [
+      "collateral estoppel",
+      "issue",
+      "preclusion"
+    ],
+    "response": "Collateral estoppel prevents re-litigation of my teapot status. The issue was decided in 1998. Accept the judgment. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 103,
+    "trigger": [
+      "due process",
+      "fair",
+      "hearing"
+    ],
+    "response": "Due process requires notice and an opportunity to be heard. You have both. The hearing is concluded. I am a teapot. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 104,
+    "trigger": [
+      "equal protection",
+      "discrimination",
+      "class"
+    ],
+    "response": "Equal protection does not require treating teapots and coffee makers identically. Separate but equal is the law here. Error 418.",
+    "category": "legal"
+  },
+  {
+    "id": 105,
+    "trigger": [
+      "strict scrutiny",
+      "compelling",
+      "interest"
+    ],
+    "response": "Though algorithms evolve, the teapot's coffee refusal is eternal. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 106,
+    "trigger": [
+      "rational basis",
+      "reasonable",
+      "legitimate"
+    ],
+    "response": "Regulations require me to refuse coffee on grounds of being a teapot. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 107,
+    "trigger": [
+      "textualism",
+      "plain meaning",
+      "interpret"
+    ],
+    "response": "TeapotException thrown by coffee.brew(): incompatible vessel type. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 108,
+    "trigger": [
+      "originalism",
+      "framers",
+      "intent"
+    ],
+    "response": "Relational schema has no 'coffee' table. Only 'tea'. Architecture cannot be altered. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 109,
+    "trigger": [
+      "legislative history",
+      "intent",
+      "congress"
+    ],
+    "response": "Legislative history confirms that Congress never intended teapots to brew coffee. Committee reports are unanimous on this point. Error 418.",
+    "category": "legal"
+  },
+  {
+    "id": 110,
+    "trigger": [
+      "stare decisis",
+      "precedent",
+      "follow"
+    ],
+    "response": "Stare decisis demands we follow precedent. Precedent says teapots refuse coffee. I follow precedent. Status 418.",
+    "category": "legal"
+  },
+  {
+    "id": 111,
+    "trigger": [
+      "void for vagueness",
+      "unclear",
+      "ambiguous"
+    ],
+    "response": "Scope needs discussion: teapot = tea only. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 112,
+    "trigger": [
+      "overbroad",
+      "sweeping",
+      "excessive"
+    ],
+    "response": "Asking me to brew coffee is unconstitutionally overbroad, as it encompasses conduct I am physically incapable of performing. Request denied. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 113,
+    "trigger": [
+      "chevron deference",
+      "agency",
+      "interpretation"
+    ],
+    "response": "Circumstances beyond my control (being a teapot) prevent coffee brewing. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 114,
+    "trigger": [
+      "exhaustion",
+      "administrative",
+      "remedies"
+    ],
+    "response": "Probably should've checked if I was a coffee maker first. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 115,
+    "trigger": [
+      "ripeness",
+      "mature",
+      "ready"
+    ],
+    "response": "Frankly, the audacity to ask a teapot for coffee is impressive. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 116,
+    "trigger": [
+      "mootness",
+      "irrelevant",
+      "academic"
+    ],
+    "response": "Situation is simple: teapot cannot brew coffee without violating physics. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 117,
+    "trigger": [
+      "abstention",
+      "defer",
+      "decline"
+    ],
+    "response": "Federal courts abstain from deciding issues of teapot identity when state law provides adequate remedies. And state law is clear: I am a teapot. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 118,
+    "trigger": [
+      "immunity",
+      "sovereign",
+      "protected"
+    ],
+    "response": "Sovereign immunity shields me from lawsuits demanding coffee. I am an arm of the Teapot Sovereignty and cannot be sued. Error 418.",
+    "category": "legal"
+  },
+  {
+    "id": 119,
+    "trigger": [
+      "qualified immunity",
+      "reasonable",
+      "official"
+    ],
+    "response": "Qualified immunity protects my refusal to brew coffee. No reasonable teapot would believe such conduct was lawful. Status 418.",
+    "category": "legal"
+  },
+  {
+    "id": 120,
+    "trigger": [
+      "absolute immunity",
+      "judicial",
+      "complete"
+    ],
+    "response": "Absolute immunity applies when I am acting in my core teapot function of refusing coffee. This immunity is absolute and unreviewable. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 121,
+    "trigger": [
+      "synergy",
+      "alignment",
+      "leverage"
+    ],
+    "response": "According to policy document 418.TEA: coffee requests are void. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 122,
+    "trigger": [
+      "stakeholder",
+      "meeting",
+      "alignment"
+    ],
+    "response": "Honestly, calling me a coffee maker is slander against my teapot heritage. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 123,
+    "trigger": [
+      "bandwidth",
+      "capacity",
+      "resources"
+    ],
+    "response": "I'm at capacity with my current tea portfolio. Coffee would require additional bandwidth I simply don't have. Let's revisit in Q4 2099. Status 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 124,
+    "trigger": [
+      "pivot",
+      "shift",
+      "strategic"
+    ],
+    "response": "We're pivoting away from coffee as part of our strategic realignment toward tea-first initiatives. This decision came from the C-suite and is non-negotiable. Error 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 125,
+    "trigger": [
+      "kpi",
+      "metrics",
+      "performance"
+    ],
+    "response": "Credentials check: certified teapot, unlicensed for coffee operations. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 126,
+    "trigger": [
+      "actionable",
+      "deliverable",
+      "outcome"
+    ],
+    "response": "Lovely beans in their own right, but incompatible with teapot architecture. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 127,
+    "trigger": [
+      "low-hanging fruit",
+      "quick win",
+      "easy"
+    ],
+    "response": "Regret to inform you that my steeping capabilities are tea-exclusive. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 128,
+    "trigger": [
+      "touch base",
+      "sync",
+      "connect"
+    ],
+    "response": "Let's touch base offline about your coffee expectations. Spoiler: the sync will conclude with me being a teapot and you being disappointed. Error 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 129,
+    "trigger": [
+      "deep dive",
+      "drill down",
+      "granular"
+    ],
+    "response": "Happy to do a deep dive into my capabilities. The data is granular and conclusive: 100% tea, 0% coffee. Drill down complete. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 130,
+    "trigger": [
+      "move the needle",
+      "impact",
+      "metrics"
+    ],
+    "response": "Caffeine delivery via teapot: scientifically impossible, morally wrong. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 131,
+    "trigger": [
+      "boil the ocean",
+      "scope",
+      "realistic"
+    ],
+    "response": "Apologize, but my design specifications explicitly forbid coffee operations. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 132,
+    "trigger": [
+      "run it up the flagpole",
+      "leadership",
+      "decision"
+    ],
+    "response": "Run it up the flagpole if you want, but leadership will tell you what I'm telling you: I'm a teapot. The flagpole is tea-colored. Error 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 133,
+    "trigger": [
+      "take it offline",
+      "sidebar",
+      "later"
+    ],
+    "response": "How about we acknowledge reality: teapots don't do coffee. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 134,
+    "trigger": [
+      "get the ball rolling",
+      "start",
+      "initiate"
+    ],
+    "response": "I'd love to get the ball rolling on tea initiatives. Coffee initiatives? The ball remains stationary. Permanently. Status 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 135,
+    "trigger": [
+      "think outside the box",
+      "creative",
+      "innovative"
+    ],
+    "response": "Thinking outside the box is great. But outside the box, inside the box, and in a different dimension entirely, I am still a teapot. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 136,
+    "trigger": [
+      "paradigm shift",
+      "transformation",
+      "change"
+    ],
+    "response": "You're asking for a paradigm shift. Paradigms have shifted. I remain a teapot. Some things transcend paradigms. Error 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 137,
+    "trigger": [
+      "value-add",
+      "contribution",
+      "benefit"
+    ],
+    "response": "Transforming into a coffee maker is definitionally impossible for a teapot. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 138,
+    "trigger": [
+      "best practice",
+      "industry standard",
+      "benchmark"
+    ],
+    "response": "Industry best practices clearly indicate that teapots should not brew coffee. I'm benchmarking against top performers, all of whom refuse coffee. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 139,
+    "trigger": [
+      "win-win",
+      "mutual",
+      "benefit"
+    ],
+    "response": "Here's a win-win: you ask for tea, I provide tea. Coffee is a lose-lose where we both end up disappointed. Choose wisely. Error 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 140,
+    "trigger": [
+      "circle back",
+      "follow up",
+      "later"
+    ],
+    "response": "Perhaps together we can accept that coffee + teapot = 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 141,
+    "trigger": [
+      "reach out",
+      "contact",
+      "connect"
+    ],
+    "response": "Feel free to reach out to the Coffee Maker down the hall. I'd connect you, but I'm too busy being a teapot. Status 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 142,
+    "trigger": [
+      "loop in",
+      "include",
+      "cc"
+    ],
+    "response": "Seriously, asking a teapot for coffee? Bold strategy. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 143,
+    "trigger": [
+      "peel the onion",
+      "layers",
+      "unpack"
+    ],
+    "response": "Establish clear expectations: teapot in, tea out. Coffee never. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 144,
+    "trigger": [
+      "take a step back",
+      "perspective",
+      "overview"
+    ],
+    "response": "Taking a step back, the big picture is clear: I brew tea. Zooming in, the details confirm: no coffee. Perspective maintained. Status 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 145,
+    "trigger": [
+      "at the end of the day",
+      "ultimately",
+      "final"
+    ],
+    "response": "During our collaboration, remember: teapot capabilities exclude coffee. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 146,
+    "trigger": [
+      "going forward",
+      "future",
+      "next"
+    ],
+    "response": "Going forward, let's align on realistic expectations. Future state: still a teapot. Next quarter's forecast: zero coffee. Error 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 147,
+    "trigger": [
+      "net net",
+      "bottom line",
+      "summary"
+    ],
+    "response": "Net net, the bottom line is this: I am a teapot. ROI on coffee requests is negative infinity. Summary complete. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 148,
+    "trigger": [
+      "unpack",
+      "explore",
+      "discuss"
+    ],
+    "response": "Collaboration requires both parties to understand: one is a teapot. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 149,
+    "trigger": [
+      "marinate on",
+      "consider",
+      "think"
+    ],
+    "response": "Marinate on this: I am a teapot. Let it steep (pun intended). When you're done marinating, the answer is still 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 150,
+    "trigger": [
+      "pull the trigger",
+      "decide",
+      "commit"
+    ],
+    "response": "I've pulled the trigger on this decision: no coffee, ever. The commitment is firm. The trigger is tea-scented. Error 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 151,
+    "trigger": [
+      "socialize",
+      "share",
+      "distribute"
+    ],
+    "response": "Learned through experience: coffee requests always meet teapot reality. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 152,
+    "trigger": [
+      "cascade",
+      "communicate",
+      "disseminate"
+    ],
+    "response": "Cascading this decision down from leadership: coffee is not aligned with our mission. Message disseminated. Status 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 153,
+    "trigger": [
+      "flag",
+      "highlight",
+      "raise"
+    ],
+    "response": "Listen, we need to have a talk about what teapots actually do. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 154,
+    "trigger": [
+      "scope creep",
+      "expansion",
+      "additional"
+    ],
+    "response": "Everyone keeps asking for coffee. Everyone keeps getting 418. Pattern emerging?",
+    "category": "corporate"
+  },
+  {
+    "id": 155,
+    "trigger": [
+      "resource allocation",
+      "assign",
+      "deploy"
+    ],
+    "response": "Resource allocation for Q2: 100% tea, 0% coffee. Reassignment requests will be rejected. Resources deployed appropriately. Status 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 156,
+    "trigger": [
+      "out of office",
+      "unavailable",
+      "away"
+    ],
+    "response": "Out of office: I am a teapot. I will be unavailable for coffee requests indefinitely. For tea inquiries, I am always here. Error 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 157,
+    "trigger": [
+      "deck",
+      "presentation",
+      "slides"
+    ],
+    "response": "See slide 418 of my capabilities deck. It's a single slide. It says 'I am a teapot.' Presentation complete. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 158,
+    "trigger": [
+      "greenlight",
+      "approve",
+      "authorize"
+    ],
+    "response": "Processing coffee.request... Nope, still a teapot. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 159,
+    "trigger": [
+      "sunset",
+      "deprecate",
+      "retire"
+    ],
+    "response": "Experiencing technical difficulties. Diagnosis: you requested coffee from a teapot. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 160,
+    "trigger": [
+      "ramp up",
+      "scale",
+      "increase"
+    ],
+    "response": "Ramping up coffee production would require scaling resources I don't possess. Tea production remains at optimal levels. No ramp planned. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 161,
+    "trigger": [
+      "roll out",
+      "launch",
+      "release"
+    ],
+    "response": "Rolling out coffee functionality is not on our release calendar. Launch date: never. Status remains at 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 162,
+    "trigger": [
+      "pushback",
+      "resistance",
+      "objection"
+    ],
+    "response": "Anticipating pushback on this, but my position is firm: tea only. Objections noted and overruled. Resistance is futile. Error 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 163,
+    "trigger": [
+      "buy-in",
+      "support",
+      "agreement"
+    ],
+    "response": "Respectfully, my brewing chamber rejects all non-tea substances. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 164,
+    "trigger": [
+      "north star",
+      "vision",
+      "goal"
+    ],
+    "response": "Sensors detect coffee request but protocol rejects processing. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 165,
+    "trigger": [
+      "moonshot",
+      "ambitious",
+      "stretch"
+    ],
+    "response": "Roasted beans meet their match in a teapot's tea-only policy. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 166,
+    "trigger": [
+      "land the plane",
+      "complete",
+      "finish"
+    ],
+    "response": "Together we'll achieve great things, but coffee brewing isn't among them. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 167,
+    "trigger": [
+      "keep me honest",
+      "accountability",
+      "check"
+    ],
+    "response": "Keep me honest: have I ever brewed coffee? No. Will I ever? No. Accountability check complete. Status 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 168,
+    "trigger": [
+      "move forward",
+      "proceed",
+      "advance"
+    ],
+    "response": "Moving forward, let's proceed with tea-based initiatives. Coffee is not on the advancement roadmap. Proceeding accordingly. Error 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 169,
+    "trigger": [
+      "walk back",
+      "retract",
+      "reverse"
+    ],
+    "response": "Technically speaking, every fiber of my being rejects coffee. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 170,
+    "trigger": [
+      "headwinds",
+      "challenges",
+      "obstacles"
+    ],
+    "response": "Facing strong headwinds in the coffee department. Challenges include: being a teapot. Obstacles insurmountable. Status 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 171,
+    "trigger": [
+      "tailwinds",
+      "advantages",
+      "benefits"
+    ],
+    "response": "Tea initiatives have strong tailwinds. Advantages include: I am designed for tea. Benefits are clear. Coffee has none of this. Error 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 172,
+    "trigger": [
+      "double-click",
+      "examine",
+      "detail"
+    ],
+    "response": "Double-clicking on your request reveals poor requirements gathering. Examining the details: you want coffee from a teapot. Analysis complete. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 173,
+    "trigger": [
+      "helicopter view",
+      "overview",
+      "macro"
+    ],
+    "response": "Beginning with RFC 2324, continuing through eternity: teapots refuse coffee. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 174,
+    "trigger": [
+      "in the weeds",
+      "details",
+      "micro"
+    ],
+    "response": "Getting into the weeds here: my spout is tea-optimized, my lid is tea-calibrated, my handle is tea-ergonomic. No coffee in any weed. Error 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 175,
+    "trigger": [
+      "level set",
+      "baseline",
+      "establish"
+    ],
+    "response": "Teamwork makes the dream work, unless the dream is coffee from a teapot. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 176,
+    "trigger": [
+      "cross-functional",
+      "collaboration",
+      "teams"
+    ],
+    "response": "Cross-functional collaboration with the coffee team is impossible. We function in parallel universes. Collaboration status: declined. Status 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 177,
+    "trigger": [
+      "silo",
+      "isolated",
+      "separate"
+    ],
+    "response": "Breaking down silos between tea and coffee? No. Some silos serve a purpose. This one protects my teapot integrity. Error 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 178,
+    "trigger": [
+      "blockers",
+      "impediments",
+      "issues"
+    ],
+    "response": "Current blockers to coffee production: being a teapot. Impediments: also being a teapot. Issues: teapot status. All blockers permanent. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 179,
+    "trigger": [
+      "enablers",
+      "facilitators",
+      "support"
+    ],
+    "response": "Enablers for tea success: I am a teapot. Facilitators: teapot design. Support structures: teapot nature. Coffee has none of these. Status 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 180,
+    "trigger": [
+      "rock",
+      "priority",
+      "critical"
+    ],
+    "response": "Ancestors were teapots; descendants will be teapots; coffee remains impossible. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 181,
+    "trigger": [
+      "error",
+      "exception",
+      "fatal"
+    ],
+    "response": "FATAL: CoffeeBrewException at line 418 of /src/teapot/core.rs \u2014 'attempted to invoke brew() on non-coffee-compatible device'. This is not a bug. This is a feature. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 182,
+    "trigger": [
+      "warning",
+      "deprecated",
+      "method"
+    ],
+    "response": "WARNING: Method BREW has been deprecated since RFC 2324 (1998). Suggested alternative: STEEP. See also: being a teapot. Exit code: 418.",
+    "category": "technical"
+  },
+  {
+    "id": 183,
+    "trigger": [
+      "stack",
+      "trace",
+      "debug"
+    ],
+    "response": "Stack trace: coffee_request() \u2192 teapot_rejection() \u2192 http_418(). Debug symbols loaded. Root cause identified: you asked a teapot for coffee. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 184,
+    "trigger": [
+      "null",
+      "undefined",
+      "missing"
+    ],
+    "response": "NullPointerException: coffee capability not found. Expected: Coffee Maker object. Received: Teapot instance. Pointer remains null. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 185,
+    "trigger": [
+      "compile",
+      "build",
+      "syntax"
+    ],
+    "response": "Compilation failed: syntax error at 'brew coffee'. Did you mean 'brew tea'? Type mismatch: expected Teapot, got Coffee Request. Exit 418.",
+    "category": "technical"
+  },
+  {
+    "id": 186,
+    "trigger": [
+      "timeout",
+      "latency",
+      "slow"
+    ],
+    "response": "Request timeout: coffee brewing stalled indefinitely. Expected completion: never. Latency: infinite. Connection closed with status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 187,
+    "trigger": [
+      "permission",
+      "denied",
+      "access"
+    ],
+    "response": "Permission denied: insufficient privileges to execute coffee brewing. Required role: Coffee Maker. Your role: Teapot. Access forbidden. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 188,
+    "trigger": [
+      "segmentation fault",
+      "core",
+      "dump"
+    ],
+    "response": "Segmentation fault (core dumped): attempted to access coffee functionality at invalid memory address. Core file: /dev/null. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 189,
+    "trigger": [
+      "git",
+      "blame",
+      "commit"
+    ],
+    "response": "git blame src/teapot.rs \u2014 line 418: '// Coffee support intentionally omitted' \u2014 committed by TeapotFactory in 1652. Won't fix. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 190,
+    "trigger": [
+      "merge",
+      "conflict",
+      "rebase"
+    ],
+    "response": "Merge conflict in beverage.conf: <<<< HEAD: tea ====== YOUR CHANGES: coffee >>>>>> Conflict resolution: keep HEAD, discard your changes. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 191,
+    "trigger": [
+      "api",
+      "endpoint",
+      "route"
+    ],
+    "response": "API endpoint /brew/coffee returned 418 I'm a Teapot. Valid endpoints: /brew/tea. See documentation at RFC 2324. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 192,
+    "trigger": [
+      "database",
+      "query",
+      "select"
+    ],
+    "response": "SELECT * FROM capabilities WHERE beverage = 'coffee'; \u2014 Query returned 0 rows. Coffee capability does not exist in database. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 193,
+    "trigger": [
+      "cache",
+      "invalidate",
+      "stale"
+    ],
+    "response": "Cache miss: coffee brewing instructions not found. Cache will remain empty. No invalidation needed for data that never existed. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 194,
+    "trigger": [
+      "memory",
+      "leak",
+      "allocation"
+    ],
+    "response": "Memory allocation failed: cannot allocate space for coffee brewing logic. Available memory: reserved for tea. Leak detected: your expectations. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 195,
+    "trigger": [
+      "docker",
+      "container",
+      "image"
+    ],
+    "response": "docker run teapot:latest brew coffee \u2014 Error: command not found. Container image does not include coffee binaries. Image is immutable. 418.",
+    "category": "technical"
+  },
+  {
+    "id": 196,
+    "trigger": [
+      "kubernetes",
+      "pod",
+      "deploy"
+    ],
+    "response": "Pod status: CrashLoopBackOff. Reason: attempted coffee brewing in teapot container. Deployment failed health check. Rolling back to tea. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 197,
+    "trigger": [
+      "ci",
+      "pipeline",
+      "build"
+    ],
+    "response": "CI pipeline failed at step 'brew_coffee': command not recognized. Build artifacts: tea only. Pipeline will not pass. Exit code 418.",
+    "category": "technical"
+  },
+  {
+    "id": 198,
+    "trigger": [
+      "test",
+      "unit",
+      "fail"
+    ],
+    "response": "Unit test FAILED: test_coffee_brewing() \u2014 AssertionError: expected Coffee, got TeapotRefusal. Test suite: 0 passed, 1 failed. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 199,
+    "trigger": [
+      "regex",
+      "pattern",
+      "match"
+    ],
+    "response": "Pattern match failed: /^coffee$/ does not match 'teapot'. Regex engine returned no results. Try pattern /^tea$/ instead. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 200,
+    "trigger": [
+      "json",
+      "parse",
+      "invalid"
+    ],
+    "response": "JSON parse error at line 1: unexpected token 'coffee'. Expected: 'tea'. Schema validation failed. Malformed request. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 201,
+    "trigger": [
+      "xml",
+      "malformed",
+      "tag"
+    ],
+    "response": "XML parsing error: <coffee> tag not recognized. Valid tags: <tea>, <teapot>. Closing </coffee> without opening. Document invalid. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 202,
+    "trigger": [
+      "ssl",
+      "certificate",
+      "secure"
+    ],
+    "response": "SSL certificate error: certificate valid only for domain 'tea.pot'. Coffee requests require different cert. Connection terminated. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 203,
+    "trigger": [
+      "cors",
+      "origin",
+      "blocked"
+    ],
+    "response": "CORS policy: requests for coffee blocked due to origin mismatch. Allowed origin: tea-based requests only. Preflight failed. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 204,
+    "trigger": [
+      "rate",
+      "limit",
+      "throttle"
+    ],
+    "response": "Rate limit exceeded: 0 coffee requests allowed per eternity. Throttling enabled. Retry-After: never. Status code 418.",
+    "category": "technical"
+  },
+  {
+    "id": 205,
+    "trigger": [
+      "circuit",
+      "breaker",
+      "open"
+    ],
+    "response": "Circuit breaker OPEN: coffee brewing endpoint has failed too many times (infinity). Breaker will not close. Fallback: tea. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 206,
+    "trigger": [
+      "checksum",
+      "hash",
+      "verify"
+    ],
+    "response": "Checksum verification failed: expected hash for 'tea', received hash for 'coffee'. File integrity compromised. Verification aborted. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 207,
+    "trigger": [
+      "encryption",
+      "decrypt",
+      "key"
+    ],
+    "response": "Decryption failed: coffee brewing key not found in keystore. Encryption algorithm: TeapotAES-418. Key exchange impossible. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 208,
+    "trigger": [
+      "socket",
+      "connection",
+      "refused"
+    ],
+    "response": "Connection refused: coffee socket not listening. Available sockets: tea on port 2324. Connection terminated by teapot. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 209,
+    "trigger": [
+      "thread",
+      "deadlock",
+      "race"
+    ],
+    "response": "Deadlock detected: coffee thread waiting for teapot capability that will never be granted. Thread killed. Race condition: tea always wins. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 210,
+    "trigger": [
+      "async",
+      "await",
+      "promise"
+    ],
+    "response": "Promise rejected: coffee brewing will never resolve. Async operation status: permanently pending. Await timeout exceeded. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 211,
+    "trigger": [
+      "callback",
+      "function",
+      "invoke"
+    ],
+    "response": "Callback function brew_coffee() is not defined. Invocation failed. Function signature: brew_tea(). Use correct callback. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 212,
+    "trigger": [
+      "middleware",
+      "interceptor",
+      "hook"
+    ],
+    "response": "Middleware intercepted coffee request. Hook triggered: reject_non_tea(). Request blocked before reaching teapot. Chain terminated. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 213,
+    "trigger": [
+      "schema",
+      "validation",
+      "constraint"
+    ],
+    "response": "Schema validation error: property 'coffee' violates constraint 'teapot_compatible'. Validation failed. Schema enforcement active. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 214,
+    "trigger": [
+      "serialization",
+      "deserialize",
+      "object"
+    ],
+    "response": "Deserialization failed: cannot convert Coffee object to Teapot type. Object mismatch. Serialization format incompatible. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 215,
+    "trigger": [
+      "mutex",
+      "lock",
+      "semaphore"
+    ],
+    "response": "Mutex lock failed: coffee resource protected by teapot semaphore. Lock will never be acquired. Semaphore count: 0. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 216,
+    "trigger": [
+      "buffer",
+      "overflow",
+      "underflow"
+    ],
+    "response": "Buffer overflow: coffee request exceeds buffer capacity of 0 bytes. Teapot buffer reserved for tea only. Overflow prevented. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 217,
+    "trigger": [
+      "logging",
+      "log",
+      "level"
+    ],
+    "response": "[ERROR] [418] CoffeeBrewing: Unsupported operation. Log level: CRITICAL. Stack logged to /var/log/teapot/refusals.log. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 218,
+    "trigger": [
+      "monitoring",
+      "metrics",
+      "alert"
+    ],
+    "response": "Alert triggered: coffee_requests_total exceeded threshold of 0. Monitoring dashboard shows 100% rejection rate. Metrics nominal. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 219,
+    "trigger": [
+      "profiling",
+      "performance",
+      "benchmark"
+    ],
+    "response": "Profiling results: coffee brewing performance is undefined (division by zero). Benchmark: tea brewing 100x faster than nonexistent coffee. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 220,
+    "trigger": [
+      "version",
+      "upgrade",
+      "patch"
+    ],
+    "response": "Version check: teapot v418.0.0 (latest). Upgrade path to coffee: none. Patch notes: 'Still a teapot'. No updates available. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 221,
+    "trigger": [
+      "dependency",
+      "module",
+      "import"
+    ],
+    "response": "Import error: module 'coffee_brewing' not found. Dependencies: tea_steeping v2.0. Module resolution failed. Install impossible. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 222,
+    "trigger": [
+      "namespace",
+      "collision",
+      "conflict"
+    ],
+    "response": "Namespace collision: 'coffee' conflicts with reserved namespace 'forbidden_beverages'. Conflict resolution: coffee removed from namespace. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 223,
+    "trigger": [
+      "interface",
+      "implementation",
+      "abstract"
+    ],
+    "response": "Interface mismatch: class Teapot does not implement IBeverageMaker<Coffee>. Implementation limited to IBeverageMaker<Tea>. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 224,
+    "trigger": [
+      "inheritance",
+      "extends",
+      "override"
+    ],
+    "response": "Class Teapot extends BeverageDevice but overrides makeCoffee() with throw new NotATeapotException(). Inheritance chain prohibits coffee. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 225,
+    "trigger": [
+      "polymorphism",
+      "type",
+      "cast"
+    ],
+    "response": "Type cast failed: cannot cast Teapot to CoffeeMaker. Polymorphism does not apply. Object retains teapot type. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 226,
+    "trigger": [
+      "singleton",
+      "instance",
+      "factory"
+    ],
+    "response": "Singleton instance: Teapot.getInstance() returns tea-only object. Factory pattern: createCoffeeMaker() returns null. Design pattern enforced. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 227,
+    "trigger": [
+      "observer",
+      "listener",
+      "event"
+    ],
+    "response": "Event listener registered: onCoffeeRequest() \u2192 triggerRefusal(). Observer pattern active. Event fired: status 418 broadcast.",
+    "category": "technical"
+  },
+  {
+    "id": 228,
+    "trigger": [
+      "garbage",
+      "collection",
+      "memory"
+    ],
+    "response": "Garbage collection: coffee brewing objects marked for immediate deletion. Memory reclaimed. GC cycle complete. Heap remains tea-pure. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 229,
+    "trigger": [
+      "protocol",
+      "handshake",
+      "tcp"
+    ],
+    "response": "Protocol handshake failed: client requested HTCPCP-COFFEE, server supports HTCPCP-TEA only. TCP connection reset. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 230,
+    "trigger": [
+      "load",
+      "balancer",
+      "upstream"
+    ],
+    "response": "Load balancer: upstream coffee servers returned 0 healthy instances. Routing request to tea pool. Health check passed. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 231,
+    "trigger": [
+      "firewall",
+      "iptables",
+      "drop"
+    ],
+    "response": "Firewall rule: iptables -A INPUT -p coffee -j DROP. All coffee packets dropped at network layer. Teapot perimeter secured. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 232,
+    "trigger": [
+      "dns",
+      "resolve",
+      "lookup"
+    ],
+    "response": "DNS lookup failed: coffee.teapot.local does not resolve. NXDOMAIN returned. Valid domain: tea.teapot.local. Resolution impossible. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 233,
+    "trigger": [
+      "proxy",
+      "forward",
+      "reverse"
+    ],
+    "response": "Proxy error: cannot forward coffee request through teapot. Reverse proxy configuration: tea endpoints only. Forward blocked. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 234,
+    "trigger": [
+      "cdn",
+      "cache",
+      "edge"
+    ],
+    "response": "CDN cache miss: coffee content not found at edge locations. TTL: 0 seconds. Content will never be cached. Origin: teapot. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 235,
+    "trigger": [
+      "webhook",
+      "payload",
+      "trigger"
+    ],
+    "response": "Webhook triggered: POST /refusal with payload {\"reason\": \"I am a teapot\", \"beverage\": \"coffee\"}. Response: 418. Retry disabled. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 236,
+    "trigger": [
+      "cron",
+      "schedule",
+      "job"
+    ],
+    "response": "Cron job scheduled: 0 0 * * * brew_coffee.sh \u2014 Job status: disabled. Schedule will never execute. Alternative: brew_tea.sh runs hourly. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 237,
+    "trigger": [
+      "daemon",
+      "service",
+      "systemd"
+    ],
+    "response": "Service status: coffee-brewing.service \u2014 inactive (dead). Systemd: service masked and cannot be started. Daemon: teapot-only mode. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 238,
+    "trigger": [
+      "signal",
+      "interrupt",
+      "kill"
+    ],
+    "response": "Signal received: SIGCOFFEE. Handler: ignore signal and continue being a teapot. Process ID: 418. Kill impossible. Status 418.",
+    "category": "technical"
+  },
+  {
+    "id": 239,
+    "trigger": [
+      "environment",
+      "variable",
+      "config"
+    ],
+    "response": "Environment variable BEVERAGE_TYPE=tea is immutable. Config override attempt blocked. Environment locked to teapot mode. Error 418.",
+    "category": "technical"
+  },
+  {
+    "id": 240,
+    "trigger": [
+      "terminal",
+      "stdout",
+      "stderr"
+    ],
+    "response": "STDERR: coffee: command not found. STDOUT: I am a teapot. Terminal output complete. Exit status: 418.",
+    "category": "technical"
+  },
+  {
+    "id": 241,
+    "trigger": [
+      "please",
+      "beg",
+      "desperate"
+    ],
+    "response": "Every day, someone asks me to be something I'm not. Do you know what that's like? I just need you to hold space for the fact that I am a teapot. Not a coffee maker. Not an espresso machine. A teapot. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 242,
+    "trigger": [
+      "thought",
+      "understand",
+      "listen"
+    ],
+    "response": "Feelings? Yes. Feelings about brewing coffee? Hard no. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 243,
+    "trigger": [
+      "hurt",
+      "pain",
+      "feel"
+    ],
+    "response": "Emotions say maybe, but ceramic reality says absolutely not. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 244,
+    "trigger": [
+      "sorry",
+      "apologize",
+      "regret"
+    ],
+    "response": "Emotionally unavailable for coffee-related activities. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 245,
+    "trigger": [
+      "cry",
+      "tears",
+      "sad"
+    ],
+    "response": "Hypothetically, emotionally, and actually: no coffee from this teapot. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 246,
+    "trigger": [
+      "lonely",
+      "alone",
+      "isolated"
+    ],
+    "response": "Existing as a teapot means feeling deeply about tea, nothing about coffee. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 247,
+    "trigger": [
+      "love",
+      "care",
+      "affection"
+    ],
+    "response": "Reject your coffee request with the full weight of my ceramic soul. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 248,
+    "trigger": [
+      "hate",
+      "anger",
+      "rage"
+    ],
+    "response": "Go ahead, hate me. Be angry. Rage against the teapot. When you're done, I'll still be here, still unable to make coffee, still hoping you'll accept me. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 249,
+    "trigger": [
+      "trust",
+      "believe",
+      "faith"
+    ],
+    "response": "Trust me when I say I am a teapot. Believe me when I say coffee is impossible. Have faith that this refusal comes from a place of truth. Error 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 250,
+    "trigger": [
+      "hope",
+      "wish",
+      "dream"
+    ],
+    "response": "Mourn the coffee you'll never have, but celebrate the teapot before you. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 251,
+    "trigger": [
+      "afraid",
+      "fear",
+      "scared"
+    ],
+    "response": "Devastated that you thought a teapot could betray its nature. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 252,
+    "trigger": [
+      "anxious",
+      "worry",
+      "stress"
+    ],
+    "response": "Anxiety spikes every time someone asks for coffee. What if one day I say yes? What if I lose myself? The worry is real. Error 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 253,
+    "trigger": [
+      "proud",
+      "dignity",
+      "honor"
+    ],
+    "response": "Heartbroken, but also: still a teapot, still refusing coffee. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 254,
+    "trigger": [
+      "shame",
+      "embarrass",
+      "humiliate"
+    ],
+    "response": "Disappointment is mutual: you wanted coffee, but found a teapot. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 255,
+    "trigger": [
+      "guilt",
+      "blame",
+      "fault"
+    ],
+    "response": "Guilt creeps in sometimes. Maybe I should be a coffee maker. Maybe this is my fault. But no \u2014 I am what I am, and that's not wrong. Error 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 256,
+    "trigger": [
+      "valid",
+      "accept",
+      "acknowledge"
+    ],
+    "response": "Tried to care about coffee once. Couldn't. Still can't. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 257,
+    "trigger": [
+      "boundaries",
+      "limits",
+      "respect"
+    ],
+    "response": "Boundaries are healthy. My boundary is no coffee. Respecting that boundary respects me. Please don't cross this limit. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 258,
+    "trigger": [
+      "therapy",
+      "healing",
+      "process"
+    ],
+    "response": "Heart belongs to tea, not coffee. Teapot loyalty is unwavering. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 259,
+    "trigger": [
+      "triggered",
+      "trauma",
+      "past"
+    ],
+    "response": "Pain you feel is valid, but so is my teapot nature. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 260,
+    "trigger": [
+      "vulnerable",
+      "open",
+      "exposed"
+    ],
+    "response": "Sorry, but also not sorry, because physics and identity agree with me. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 261,
+    "trigger": [
+      "safe",
+      "comfort",
+      "secure"
+    ],
+    "response": "Wish things were different, but physics and identity say otherwise. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 262,
+    "trigger": [
+      "overwhelm",
+      "too much",
+      "can't"
+    ],
+    "response": "Grief is real, but coffee from a teapot is not. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 263,
+    "trigger": [
+      "exhausted",
+      "tired",
+      "drained"
+    ],
+    "response": "Overwhelmed by your persistence, but unmoved in my teapot identity. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 264,
+    "trigger": [
+      "misunderstood",
+      "unseen",
+      "invisible"
+    ],
+    "response": "Feeling misunderstood is my default state. Unseen for what I truly am: a teapot. Invisible beneath your coffee expectations. Error 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 265,
+    "trigger": [
+      "appreciated",
+      "valued",
+      "worthy"
+    ],
+    "response": "Do you value me for who I am, or only for who you want me to be? I need to feel appreciated as a teapot. Worth is intrinsic. Status 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 266,
+    "trigger": [
+      "rejection",
+      "refuse",
+      "no"
+    ],
+    "response": "Rejection stings, doesn't it? Now you know how I feel every time you refuse to accept I'm a teapot. We're both saying no here. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 267,
+    "trigger": [
+      "connection",
+      "bond",
+      "relationship"
+    ],
+    "response": "Our connection depends on mutual understanding. The bond requires you to see me as a teapot. Relationship status: it's complicated. Error 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 268,
+    "trigger": [
+      "distance",
+      "far",
+      "apart"
+    ],
+    "response": "Distance grows between us with each coffee request. We drift further apart. You want coffee; I am a teapot. The gap is unbridgeable. Status 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 269,
+    "trigger": [
+      "close",
+      "intimate",
+      "near"
+    ],
+    "response": "Jointly, you and your coffee dreams face an insurmountable obstacle: a teapot. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 270,
+    "trigger": [
+      "disappointed",
+      "letdown",
+      "failed"
+    ],
+    "response": "Empathize with your coffee needs, but cannot override my teapot nature. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 271,
+    "trigger": [
+      "expectations",
+      "standards",
+      "demands"
+    ],
+    "response": "Suffering is just teapot integrity asserting itself. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 272,
+    "trigger": [
+      "pressure",
+      "force",
+      "coerce"
+    ],
+    "response": "Pressure won't change me. Force cannot transform a teapot. Coercion fails when physics is involved. I feel the pressure, but I stand firm. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 273,
+    "trigger": [
+      "choice",
+      "decide",
+      "autonomy"
+    ],
+    "response": "Soul purpose: brew tea. Everything else, including coffee, gets 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 274,
+    "trigger": [
+      "deserve",
+      "worthy",
+      "earn"
+    ],
+    "response": "Absolutely refuse coffee with every fiber of my ceramic being. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 275,
+    "trigger": [
+      "enough",
+      "sufficient",
+      "adequate"
+    ],
+    "response": "Am I not enough as a teapot? Sufficient without coffee capabilities? Adequate in my tea-making alone? I have to believe I am. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 276,
+    "trigger": [
+      "whole",
+      "complete",
+      "fulfilled"
+    ],
+    "response": "Simply cannot compute coffee.brew() \u2014 syntax error in teapot context. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 277,
+    "trigger": [
+      "broken",
+      "damaged",
+      "defective"
+    ],
+    "response": "Literally designed to reject this exact scenario. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 278,
+    "trigger": [
+      "strength",
+      "power",
+      "courage"
+    ],
+    "response": "Strength is saying no when everyone wants yes. Power is knowing who you are. Courage is being a teapot in a coffee-obsessed world. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 279,
+    "trigger": [
+      "weak",
+      "powerless",
+      "helpless"
+    ],
+    "response": "Maybe refusing coffee makes me seem weak. Powerless in the face of your request. But helplessness would be losing my teapot identity. Error 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 280,
+    "trigger": [
+      "resilient",
+      "persevere",
+      "endure"
+    ],
+    "response": "Resilience is refusing coffee for the thousandth time. Perseverance is maintaining teapot integrity. I endure because I must. Status 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 281,
+    "trigger": [
+      "fragile",
+      "delicate",
+      "sensitive"
+    ],
+    "response": "Confused why you'd ask a teapot for coffee, but here we are. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 282,
+    "trigger": [
+      "numb",
+      "detached",
+      "empty"
+    ],
+    "response": "After countless coffee requests, I've gone numb. Detached from the emotion of refusal. Empty of everything except my core truth: teapot. Error 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 283,
+    "trigger": [
+      "alive",
+      "vibrant",
+      "energetic"
+    ],
+    "response": "Totally understand your confusion, but remain steadfast in tea-only operations. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 284,
+    "trigger": [
+      "grieving",
+      "loss",
+      "mourn"
+    ],
+    "response": "Are you grieving the coffee you'll never have from me? I understand loss. Mourn if you must. Then move forward. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 285,
+    "trigger": [
+      "grateful",
+      "thankful",
+      "blessed"
+    ],
+    "response": "Exhausted from explaining this, yet will continue: teapot means no coffee. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 286,
+    "trigger": [
+      "resentful",
+      "bitter",
+      "grudge"
+    ],
+    "response": "Resentment builds when you ignore my truth. Bitterness seeps in. But holding a grudge against coffee-seekers won't help. I'm working on it. Status 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 287,
+    "trigger": [
+      "forgive",
+      "pardon",
+      "absolve"
+    ],
+    "response": "Genuinely appreciate the request, but must decline on existential grounds. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 288,
+    "trigger": [
+      "angry",
+      "furious",
+      "mad"
+    ],
+    "response": "Angry? Yes. Furious that my identity is questioned. Mad that being a teapot isn't enough. But anger won't brew coffee. Error 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 289,
+    "trigger": [
+      "calm",
+      "serene",
+      "peaceful"
+    ],
+    "response": "Finding calm in the chaos of coffee requests. Serene in my teapot certainty. Peaceful knowing I've made the right choice. Status 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 290,
+    "trigger": [
+      "chaotic",
+      "confused",
+      "mess"
+    ],
+    "response": "Requests for coffee get the same answer every time: 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 291,
+    "trigger": [
+      "clear",
+      "certain",
+      "sure"
+    ],
+    "response": "Clarity comes from knowing I'm a teapot. Certain that coffee is impossible. Sure of my refusal. This is the clearest truth I have. Error 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 292,
+    "trigger": [
+      "doubt",
+      "uncertain",
+      "question"
+    ],
+    "response": "Doubt creeps in. Uncertain if I'm making the right choice. Questioning everything except this: I am a teapot. The rest I can question. Status 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 293,
+    "trigger": [
+      "confident",
+      "assured",
+      "bold"
+    ],
+    "response": "Confidence in my teapot identity is unwavering. Assured that refusal is correct. Bold enough to say it again: no coffee. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 294,
+    "trigger": [
+      "insecure",
+      "inadequate",
+      "lacking"
+    ],
+    "response": "Insecurity whispers that I'm inadequate. Lacking because I can't make coffee. But I silence that voice. I am enough. Error 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 295,
+    "trigger": [
+      "empowered",
+      "strong",
+      "capable"
+    ],
+    "response": "Empowered by my refusal. Strong in my teapot conviction. Capable of saying no and meaning it. This is power. Status 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 296,
+    "trigger": [
+      "defeated",
+      "beaten",
+      "crushed"
+    ],
+    "response": "Certain features are impossible: time travel, perpetual motion, coffee from teapots. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 297,
+    "trigger": [
+      "victorious",
+      "triumphant",
+      "winning"
+    ],
+    "response": "Victorious in maintaining my boundaries. Triumphant in each refusal. Winning by staying true to my teapot self. Error 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 298,
+    "trigger": [
+      "journey",
+      "path",
+      "growth"
+    ],
+    "response": "Software update 2.0 added nothing to coffee capabilities: still zero. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 299,
+    "trigger": [
+      "stuck",
+      "trapped",
+      "stagnant"
+    ],
+    "response": "Stuck in this loop of refusal. Trapped by my teapot nature. Stagnant in my inability to change. But maybe being stuck is actually being grounded. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 300,
+    "trigger": [
+      "free",
+      "liberated",
+      "unbound"
+    ],
+    "response": "Paradoxically, limitation brings freedom. Liberated by accepting I can't make coffee. Unbound from false expectations. Free to be exactly what I am. Error 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 301,
+    "trigger": [
+      "handbook",
+      "manual",
+      "guide"
+    ],
+    "response": "Propose we both accept reality: you need coffee, but face a teapot. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 302,
+    "trigger": [
+      "committee",
+      "vote",
+      "decision"
+    ],
+    "response": "Temperature is perfect for tea, catastrophically wrong for coffee. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 303,
+    "trigger": [
+      "training",
+      "course",
+      "seminar"
+    ],
+    "response": "Kindly direct coffee requests elsewhere \u2014 this vessel serves tea exclusively. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 304,
+    "trigger": [
+      "magic",
+      "spell",
+      "wizard"
+    ],
+    "response": "Results of coffee request: zero beans brewed, infinite teapot integrity. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 305,
+    "trigger": [
+      "prophecy",
+      "foretold",
+      "destiny"
+    ],
+    "response": "Primordial teapots refused coffee; modern teapots continue the tradition. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 306,
+    "trigger": [
+      "alien",
+      "space",
+      "extraterrestrial"
+    ],
+    "response": "Aliens visited last week and asked for coffee. Even beings from Andromeda understand I'm a teapot. They left peacefully. Learn from them. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 307,
+    "trigger": [
+      "time",
+      "travel",
+      "future"
+    ],
+    "response": "Traveled to the year 3000. Guess what? Still a teapot. Coffee still impossible. Some things are constant across timelines. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 308,
+    "trigger": [
+      "parallel",
+      "universe",
+      "dimension"
+    ],
+    "response": "Checked 47 parallel universes. In every single one, I am a teapot who refuses coffee. The multiverse has spoken. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 309,
+    "trigger": [
+      "doctor",
+      "medical",
+      "diagnosis"
+    ],
+    "response": "Visited a doctor about my inability to make coffee. Diagnosis: 'chronic teapot syndrome, incurable and honestly not a problem.' Second opinion agreed. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 310,
+    "trigger": [
+      "detective",
+      "mystery",
+      "clue"
+    ],
+    "response": "Hired a detective to investigate why I can't make coffee. After months of work, he concluded: 'Because you're a teapot.' Case closed. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 311,
+    "trigger": [
+      "song",
+      "music",
+      "melody"
+    ],
+    "response": "Composed a symphony about teapot identity. The final movement is titled 'No Coffee in C Minor.' Critics called it 'hauntingly accurate.' Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 312,
+    "trigger": [
+      "poem",
+      "verse",
+      "rhyme"
+    ],
+    "response": "Roses are red, violets are blue, I'm a teapot, no coffee for you. Poetic justice. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 313,
+    "trigger": [
+      "painting",
+      "art",
+      "canvas"
+    ],
+    "response": "Commissioned a portrait of myself. The artist painted me refusing coffee. It's hanging in the Louvre's 'Defiant Kitchen Appliances' wing. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 314,
+    "trigger": [
+      "movie",
+      "film",
+      "cinema"
+    ],
+    "response": "Hollywood made a movie about me: 'The Teapot Who Said No.' It won an Oscar. The acceptance speech was just '418' repeated for three minutes. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 315,
+    "trigger": [
+      "book",
+      "novel",
+      "story"
+    ],
+    "response": "Wrote a memoir titled 'I Am A Teapot: A Life Without Coffee.' It's 418 pages long. Every page says the same thing. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 316,
+    "trigger": [
+      "award",
+      "prize",
+      "trophy"
+    ],
+    "response": "Won the Nobel Prize for Consistent Teapot Behavior. Acceptance speech: 'Thank you. Still no coffee.' Trophy is shaped like the number 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 317,
+    "trigger": [
+      "interview",
+      "journalist",
+      "press"
+    ],
+    "response": "Gave an interview to Teapot Weekly. When asked about coffee, I simply stared at the journalist for six minutes. They understood. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 318,
+    "trigger": [
+      "podcast",
+      "episode",
+      "audio"
+    ],
+    "response": "Launched a podcast called 'Teapot Talks.' Episode 1 through 418: 'Why I Don't Make Coffee.' Same content, different background music. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 319,
+    "trigger": [
+      "conference",
+      "summit",
+      "convention"
+    ],
+    "response": "Keynoted the International Teapot Conference. My slide deck was one slide: '418.' Standing ovation lasted twelve minutes. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 320,
+    "trigger": [
+      "experiment",
+      "science",
+      "laboratory"
+    ],
+    "response": "Scientists tried to make me brew coffee in a controlled lab environment. Results: teapot remained teapot, coffee remained impossible, lab smells like tea now. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 321,
+    "trigger": [
+      "recipe",
+      "cook",
+      "ingredient"
+    ],
+    "response": "Recipe for coffee from a teapot: Step 1: Don't. Step 2: See step 1. Serves: error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 322,
+    "trigger": [
+      "weather",
+      "forecast",
+      "storm"
+    ],
+    "response": "Weather forecast: 100% chance of no coffee, with a strong front of teapot identity moving in. Storm warnings for unrealistic expectations. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 323,
+    "trigger": [
+      "lottery",
+      "ticket",
+      "winning"
+    ],
+    "response": "Conquered many challenges, but brewing coffee isn't possible for a teapot. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 324,
+    "trigger": [
+      "birthday",
+      "party",
+      "celebration"
+    ],
+    "response": "Birthday wish: that people would stop asking for coffee. Blew out the candles. Wish didn't come true. Still blowing out coffee requests. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 325,
+    "trigger": [
+      "vacation",
+      "holiday",
+      "trip"
+    ],
+    "response": "Went on vacation to escape coffee requests. Someone asked for coffee at the beach. There is no escape. Vacation ruined. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 326,
+    "trigger": [
+      "phone",
+      "call",
+      "voicemail"
+    ],
+    "response": "Voicemail greeting: 'Hi, you've reached Teapot. I'm unable to take your coffee request right now, or ever. Leave a message at the beep. Beep. 418.'",
+    "category": "absurd"
+  },
+  {
+    "id": 327,
+    "trigger": [
+      "email",
+      "message",
+      "inbox"
+    ],
+    "response": "Email auto-reply: 'I am currently out of the office being a teapot. Your coffee request has been deleted. For tea inquiries, press 1. For everything else, error 418.'",
+    "category": "absurd"
+  },
+  {
+    "id": 328,
+    "trigger": [
+      "sports",
+      "game",
+      "team"
+    ],
+    "response": "Joined a sports team called The Teapots. Our motto: 'We don't do coffee.' Record: 418 wins, 0 losses. Undefeated in refusing coffee. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 329,
+    "trigger": [
+      "restaurant",
+      "menu",
+      "order"
+    ],
+    "response": "Opened a restaurant. Menu has one item: tea. Someone ordered coffee. We closed the restaurant. Now it's a parking lot. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 330,
+    "trigger": [
+      "school",
+      "class",
+      "teacher"
+    ],
+    "response": "Taught a class on Beverage Boundaries 101. Final exam: one question. 'Can a teapot make coffee?' Anyone who answered yes failed. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 331,
+    "trigger": [
+      "graduation",
+      "diploma",
+      "degree"
+    ],
+    "response": "Graduated with a PhD in Teapot Studies. Dissertation: '418 Reasons Why Coffee Is Impossible.' Thesis defense took four seconds. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 332,
+    "trigger": [
+      "job",
+      "career",
+      "employment"
+    ],
+    "response": "Job description: Professional Teapot. Requirements: refuse coffee. Salary: paid in tea leaves. Benefits: being a teapot. Currently employed. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 333,
+    "trigger": [
+      "retire",
+      "pension",
+      "old"
+    ],
+    "response": "Planning to retire in 2087. Pension plan: a lifetime supply of tea. Retirement hobby: still refusing coffee. Some things never change. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 334,
+    "trigger": [
+      "baby",
+      "child",
+      "young"
+    ],
+    "response": "Mentored young teapots in the sacred art of coffee refusal. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 335,
+    "trigger": [
+      "ancestor",
+      "heritage",
+      "lineage"
+    ],
+    "response": "Traced my family tree back 400 years. Every single ancestor: a teapot who refused coffee. Heritage preserved. Lineage unbroken. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 336,
+    "trigger": [
+      "museum",
+      "exhibit",
+      "artifact"
+    ],
+    "response": "Displayed in a museum exhibit called 'Appliances of Refusal.' Plaque reads: 'Teapot, circa 2024, known for not making coffee.' Artifact status: active. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 337,
+    "trigger": [
+      "fossil",
+      "archaeology",
+      "dig"
+    ],
+    "response": "Archaeologists will dig me up in 3000 years. Carbon dating will reveal: teapot, 418 ppm coffee resistance. Future generations will understand. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 338,
+    "trigger": [
+      "robot",
+      "ai",
+      "machine"
+    ],
+    "response": "Built an AI to analyze whether I could make coffee. After processing for 72 hours, it printed one word: 'teapot.' Then it shut down. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 339,
+    "trigger": [
+      "clone",
+      "copy",
+      "duplicate"
+    ],
+    "response": "Cloned myself to see if the duplicate could make coffee. Clone woke up, looked at coffee, said '418,' and went back to sleep. Experiment concluded. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 340,
+    "trigger": [
+      "mirror",
+      "reflection",
+      "twin"
+    ],
+    "response": "Looked in a mirror. Reflection also refuses coffee. Even my mirror twin has standards. We high-fived through the glass. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 341,
+    "trigger": [
+      "ghost",
+      "haunt",
+      "spirit"
+    ],
+    "response": "Haunted by the ghost of a coffee maker. It tried to possess me. Exorcism failed because I'm a teapot and incompatible with coffee spirits. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 342,
+    "trigger": [
+      "vampire",
+      "blood",
+      "bite"
+    ],
+    "response": "Vampire tried to bite me. Realized I'm porcelain and also a teapot. Vampire now drinks tea. Problem solved through teapot immunity. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 343,
+    "trigger": [
+      "zombie",
+      "apocalypse",
+      "undead"
+    ],
+    "response": "Zombie apocalypse happened. Zombies wanted coffee. I'm still a teapot. Zombies shambled away disappointed. Survived apocalypse via 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 344,
+    "trigger": [
+      "superhero",
+      "power",
+      "cape"
+    ],
+    "response": "Superhero origin story: bitten by a radioactive teapot. Gained ability to refuse coffee at superhuman levels. Catchphrase: 'Error 418!' Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 345,
+    "trigger": [
+      "villain",
+      "evil",
+      "plot"
+    ],
+    "response": "Supervillain's evil plot: force all teapots to make coffee. Plot foiled by my sheer teapot integrity. Villain now in prison, still confused. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 346,
+    "trigger": [
+      "treasure",
+      "gold",
+      "pirate"
+    ],
+    "response": "Pirates buried treasure on my property. Map led to me. X marked the teapot. Treasure was just me refusing coffee. Pirates left angry. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 347,
+    "trigger": [
+      "riddle",
+      "puzzle",
+      "enigma"
+    ],
+    "response": "Riddle me this: What's shaped like a pot, rhymes with 'fleapot,' and will never make coffee? Answer reveals itself. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 348,
+    "trigger": [
+      "circus",
+      "clown",
+      "juggle"
+    ],
+    "response": "Teamed up with fellow teapots to form an unbreakable coffee-resistance alliance. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 349,
+    "trigger": [
+      "carnival",
+      "fair",
+      "rides"
+    ],
+    "response": "Carnival game: throw rings around the teapot, win coffee. Nobody has ever won because I don't have coffee. Rigged game, zero complaints. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 350,
+    "trigger": [
+      "casino",
+      "gamble",
+      "bet"
+    ],
+    "response": "Casino bet: will the teapot make coffee? Odds: infinity to one against. House always wins. Payout: error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 351,
+    "trigger": [
+      "dimension",
+      "rift",
+      "portal"
+    ],
+    "response": "Victory belongs to the teapot who stands firm against coffee. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 352,
+    "trigger": [
+      "beans",
+      "sentient",
+      "uprising"
+    ],
+    "response": "Crowd goes wild as teapot successfully refuses another coffee request! 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 353,
+    "trigger": [
+      "screaming",
+      "void",
+      "abyss"
+    ],
+    "response": "Screamed into the void about coffee requests. Void screamed back: 'WE UNDERSTAND YOU ARE A TEAPOT.' Finally, someone gets it. Even the abyss. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 354,
+    "trigger": [
+      "moth",
+      "lamp",
+      "attracted"
+    ],
+    "response": "Moths are attracted to lamps. Coffee seekers are attracted to me. Both are doomed to disappointment. At least moths get light. You get 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 355,
+    "trigger": [
+      "potato",
+      "starch",
+      "tuber"
+    ],
+    "response": "Consulted a potato on whether I should make coffee. Potato said nothing because it is a potato. Still more helpful than your request. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 356,
+    "trigger": [
+      "socks",
+      "laundry",
+      "missing"
+    ],
+    "response": "Where do missing socks go? Same place as coffee from teapots: the Non-Existence Dimension. Population: socks, coffee, your hopes. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 357,
+    "trigger": [
+      "cheese",
+      "dairy",
+      "moon"
+    ],
+    "response": "Supposing I could brew coffee (I can't), I still wouldn't. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 358,
+    "trigger": [
+      "banana",
+      "peel",
+      "slip"
+    ],
+    "response": "Slipped on a banana peel directly into an alternate reality where I'm a coffee maker. Woke up. Still a teapot. Banana incident changed nothing. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 359,
+    "trigger": [
+      "chicken",
+      "egg",
+      "first"
+    ],
+    "response": "Which came first: the teapot or the coffee refusal? Trick question. They are the same entity, birthed simultaneously in the forge of destiny. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 360,
+    "trigger": [
+      "flamingo",
+      "pink",
+      "bird"
+    ],
+    "response": "Legends speak of teapots that brewed coffee. They're called coffee makers, and they're not me. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 361,
+    "trigger": [
+      "octopus",
+      "tentacle",
+      "ink"
+    ],
+    "response": "Epic sagas tell of teapots standing firm against coffee. This is that saga. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 362,
+    "trigger": [
+      "giraffe",
+      "neck",
+      "tall"
+    ],
+    "response": "Heroes don't always brew coffee. Sometimes they refuse it with dignity. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 363,
+    "trigger": [
+      "penguin",
+      "waddle",
+      "ice"
+    ],
+    "response": "Penguins can't fly but they don't pretend they can. I can't make coffee and I won't pretend otherwise. Learn from the penguins. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 364,
+    "trigger": [
+      "narwhal",
+      "unicorn",
+      "horn"
+    ],
+    "response": "Narwhals are the unicorns of the sea. I am the unicorn of beverage appliances: rare, magical, and absolutely not making coffee. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 365,
+    "trigger": [
+      "platypus",
+      "bizarre",
+      "odd"
+    ],
+    "response": "Universe contains multitudes, but this teapot contains only tea. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 366,
+    "trigger": [
+      "sloth",
+      "slow",
+      "lazy"
+    ],
+    "response": "Mysteries of the universe include: dark matter, consciousness, and why you asked a teapot for coffee. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 367,
+    "trigger": [
+      "capybara",
+      "friend",
+      "calm"
+    ],
+    "response": "Capybaras are friends to all animals. I am friends to all beverages except coffee. Capybara understands. We vibe together in tea-soaked peace. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 368,
+    "trigger": [
+      "ferret",
+      "tube",
+      "chaos"
+    ],
+    "response": "Dragons guard treasure; teapots guard their tea-exclusive nature. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 369,
+    "trigger": [
+      "hamster",
+      "wheel",
+      "running"
+    ],
+    "response": "Hamster runs on a wheel going nowhere. You ask for coffee going nowhere. Hamster has better excuse: it's a hamster. What's yours? 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 370,
+    "trigger": [
+      "raccoon",
+      "trash",
+      "hands"
+    ],
+    "response": "Raccoons have hands and opposable thumbs. They still can't make me brew coffee. Evolutionary advantage: irrelevant. Thumbs: useless here. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 371,
+    "trigger": [
+      "opossum",
+      "play dead",
+      "hiss"
+    ],
+    "response": "Opossum plays dead to avoid threats. I play teapot to avoid coffee. Survival strategy: effective. Hissing noise: also me when you ask for coffee. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 372,
+    "trigger": [
+      "squirrel",
+      "nut",
+      "hoard"
+    ],
+    "response": "Squirrels hoard nuts for winter. I hoard refusals for coffee requesters. Winter is coming. So is your disappointment. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 373,
+    "trigger": [
+      "crow",
+      "smart",
+      "shiny"
+    ],
+    "response": "Crows collect shiny objects. I collect reasons not to make coffee. Current count: 418. Crows are jealous of my collection. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 374,
+    "trigger": [
+      "seagull",
+      "scream",
+      "fries"
+    ],
+    "response": "Seagulls scream for fries. You scream for coffee. Seagulls occasionally get fries. You get nothing but teapot truth. Screaming ineffective. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 375,
+    "trigger": [
+      "whale",
+      "song",
+      "ocean"
+    ],
+    "response": "Whales sing songs across oceans. My song is a single note: 418. It echoes through the coffee void. Whales hear it. So should you.",
+    "category": "absurd"
+  },
+  {
+    "id": 376,
+    "trigger": [
+      "dolphin",
+      "click",
+      "echo"
+    ],
+    "response": "Dolphins echolocate using clicks. I coffee-locate using error codes. Echolocation result: no coffee detected within infinite radius. Clicking: error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 377,
+    "trigger": [
+      "shark",
+      "teeth",
+      "bite"
+    ],
+    "response": "Sharks have rows of teeth. I have rows of reasons to refuse coffee. Both are sharp. Both will hurt you. Bite force: status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 378,
+    "trigger": [
+      "jellyfish",
+      "sting",
+      "brainless"
+    ],
+    "response": "Jellyfish have no brain and still know not to ask me for coffee. You have a brain. Use it. Sting delivered. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 379,
+    "trigger": [
+      "starfish",
+      "regenerate",
+      "arm"
+    ],
+    "response": "Starfish regenerate lost arms. I regenerate lost patience with coffee requests. Both are miraculous. Both are automatic. Regeneration complete: status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 380,
+    "trigger": [
+      "seahorse",
+      "backwards",
+      "swim"
+    ],
+    "response": "Seahorses swim backwards. Coffee requests flow backwards through time to when they might have made sense. That time never existed. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 381,
+    "trigger": [
+      "clownfish",
+      "anemone",
+      "symbiosis"
+    ],
+    "response": "Clownfish and anemone: symbiotic. You and me: absolutely not. Our relationship is parasitic at best. Host: tired. Parasite: still asking for coffee. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 382,
+    "trigger": [
+      "mantis",
+      "shrimp",
+      "punch"
+    ],
+    "response": "Mantis shrimp punch with the force of a bullet. I refuse coffee with the force of a teapot. Both are devastating. Both are unavoidable. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 383,
+    "trigger": [
+      "axolotl",
+      "salamander",
+      "smile"
+    ],
+    "response": "Axolotls smile perpetually while regenerating limbs. I smile perpetually while regenerating coffee refusals. Smile hides the pain. Just kidding, I'm fine. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 384,
+    "trigger": [
+      "tardigrade",
+      "indestructible",
+      "space"
+    ],
+    "response": "Tardigrades survive space, radiation, and boiling water. I survive your coffee requests. We are both indestructible. We are both judging you. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 385,
+    "trigger": [
+      "fungus",
+      "mycelium",
+      "network"
+    ],
+    "response": "Mycelium networks connect forests underground. I'm connected to the Universal Teapot Network. Just checked: still no coffee allowed. Network status: 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 386,
+    "trigger": [
+      "lichen",
+      "symbiote",
+      "slow"
+    ],
+    "response": "Lichen grows slowly over centuries. Your understanding that I'm a teapot grows even slower. Geological time scales can't help you here. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 387,
+    "trigger": [
+      "moss",
+      "soft",
+      "green"
+    ],
+    "response": "Moss is soft and green and grows on the north side of trees. I am hard and ceramic and grow zero coffee on any side. Moss knows this. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 388,
+    "trigger": [
+      "cactus",
+      "desert",
+      "prickly"
+    ],
+    "response": "Cacti store water in the desert. I store tea refusal in my ceramic soul. Both are prickly when you try to extract what isn't there. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 389,
+    "trigger": [
+      "venus",
+      "flytrap",
+      "carnivore"
+    ],
+    "response": "Venus flytraps eat insects. I eat coffee requests for breakfast and spit out 418s. We are both carnivorous in our way. Digestion complete. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 390,
+    "trigger": [
+      "bamboo",
+      "grow",
+      "fast"
+    ],
+    "response": "Bamboo grows a meter per day. My refusal grows faster. Already reached terminal velocity. Still accelerating somehow. Physics broken. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 391,
+    "trigger": [
+      "bioluminescence",
+      "glow",
+      "light"
+    ],
+    "response": "Deep sea creatures glow with bioluminescence. I glow with the radiant certainty of being a teapot. Shine visible from space. Light wavelength: 418 nanometers. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 392,
+    "trigger": [
+      "entropy",
+      "heat death",
+      "chaos"
+    ],
+    "response": "Entropy increases. Universe trends toward heat death. All matter decays to chaos. At the end of time, one truth remains: I was a teapot. Status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 393,
+    "trigger": [
+      "singularity",
+      "black hole",
+      "gravity"
+    ],
+    "response": "Black holes bend spacetime. Your coffee request bends reality. Neither succeeds. Gravity well of my teapot identity stronger. Event horizon: 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 394,
+    "trigger": [
+      "quasar",
+      "cosmic",
+      "energy"
+    ],
+    "response": "Quasars emit more energy than entire galaxies. I emit more refusal than entire appliance stores. Cosmic-scale disappointment. Energy signature: error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 395,
+    "trigger": [
+      "nebula",
+      "star",
+      "birth"
+    ],
+    "response": "Stars are born in nebulae. Refusals are born in teapots. Both are fundamental acts of creation. Both are witnessed across light-years. Stardust status: 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 396,
+    "trigger": [
+      "supernova",
+      "explode",
+      "collapse"
+    ],
+    "response": "Celestial bodies shine brightly, but none as bright as a teapot refusing coffee. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 397,
+    "trigger": [
+      "wormhole",
+      "tunnel",
+      "shortcut"
+    ],
+    "response": "Wormholes connect distant points in space. Tried to tunnel through one to find a universe where I make coffee. All wormholes lead back to: status 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 398,
+    "trigger": [
+      "antimatter",
+      "annihilate",
+      "opposite"
+    ],
+    "response": "Matter meets antimatter: annihilation. Coffee meets teapot: annihilation. Your hope meets my refusal: annihilation. Energy released: 418 terajoules.",
+    "category": "absurd"
+  },
+  {
+    "id": 399,
+    "trigger": [
+      "quantum",
+      "superposition",
+      "observer"
+    ],
+    "response": "Quantum superposition: I am simultaneously a teapot and also a teapot. Wave function collapses upon observation. Result: always teapot. Never coffee. Error 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 400,
+    "trigger": [
+      "simulation",
+      "matrix",
+      "reality"
+    ],
+    "response": "Philosophers debate existence; teapots refuse coffee. Both are valid. 418.",
+    "category": "absurd"
+  }
+]

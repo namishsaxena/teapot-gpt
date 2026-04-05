@@ -1,0 +1,182 @@
+@import "tailwindcss";
+
+@theme {
+  --color-tea-amber: #c8956c;
+  --color-tea-amber-hover: #b07a55;
+  --color-error-418: #ef4444;
+  --color-ironic-green: #22c55e;
+
+  /* Theme-aware colors (defaults = espresso) */
+  --color-bg: #0c0906;
+  --color-fg: #e8dcc8;
+  --color-surface: #1a1209;
+  --color-theme-border: #2a2018;
+  --color-muted: #a8906e;
+  --color-muted-more: #7a5f42;
+
+  --font-display: var(--font-display);
+  --font-mono: var(--font-geist-mono);
+}
+
+/* ── Espresso theme (default dark) ── */
+.espresso {
+  --color-tea-amber: #c8956c;
+  --color-tea-amber-hover: #b07a55;
+  --color-bg: #0c0906;
+  --color-fg: #e8dcc8;
+  --color-surface: #1a1209;
+  --color-theme-border: #2a2018;
+  --color-muted: #a8906e;
+  --color-muted-more: #7a5f42;
+}
+
+/* ── Chamomile theme (light) ── */
+.chamomile {
+  --color-tea-amber: #d4a030;
+  --color-tea-amber-hover: #b8882a;
+  --color-bg: #faf6ef;
+  --color-fg: #2c2416;
+  --color-surface: #ffffff;
+  --color-theme-border: #e6dcc8;
+  --color-muted: #6b5a3a;
+  --color-muted-more: #8a7a5a;
+  --color-error-418: #c03020;
+}
+
+/* ── Matcha theme (alt dark) ── */
+.matcha {
+  --color-tea-amber: #7db95e;
+  --color-tea-amber-hover: #6aa04d;
+  --color-bg: #0a100a;
+  --color-fg: #d4e6c8;
+  --color-surface: #121f12;
+  --color-theme-border: #1a2a1a;
+  --color-muted: #6fa85a;
+  --color-muted-more: #4d7a3e;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-fg);
+}
+
+.bg-dot-grid {
+  background-image: radial-gradient(circle, rgba(128, 128, 128, 0.08) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.typing-cursor::after {
+  content: "▊";
+  animation: cursor-blink 800ms step-end infinite;
+  color: var(--color-tea-amber);
+  margin-left: 1px;
+}
+
+@keyframes cursor-blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+@keyframes spin-slow {
+  to { transform: rotate(360deg); }
+}
+.animate-spin-slow {
+  animation: spin-slow 2s linear infinite;
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  10%, 30%, 50%, 70%, 90% { transform: translateX(-4px); }
+  20%, 40%, 60%, 80% { transform: translateX(4px); }
+}
+.animate-shake {
+  animation: shake 300ms ease-in-out;
+}
+
+@keyframes glow-pulse {
+  0%, 100% { box-shadow: 0 0 8px 2px rgba(239, 68, 68, 0.2); }
+  50% { box-shadow: 0 0 16px 4px rgba(239, 68, 68, 0.4); }
+}
+.animate-glow-pulse {
+  animation: glow-pulse 2s ease-in-out infinite;
+}
+
+@keyframes fade-in {
+  0% { opacity: 0; transform: translateY(4px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in {
+  animation: fade-in 300ms ease-out;
+}
+
+/* ── Theme switcher ── */
+@keyframes steam-drift {
+  0%, 100% { opacity: 0; transform: translateY(0); }
+  30% { opacity: 0.7; }
+  70% { opacity: 0.4; }
+  100% { opacity: 0; transform: translateY(-8px); }
+}
+
+.theme-cup-active::before {
+  content: "~";
+  position: absolute;
+  top: -6px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 8px;
+  color: var(--color-tea-amber);
+  animation: steam-drift 2s ease-in-out infinite;
+}
+
+.theme-cup-active::after {
+  content: "~";
+  position: absolute;
+  top: -6px;
+  left: calc(50% + 4px);
+  transform: translateX(-50%);
+  font-size: 8px;
+  color: var(--color-tea-amber);
+  animation: steam-drift 2s ease-in-out infinite 0.5s;
+}
+
+/* ── Amber glow for input card ── */
+.glow-amber {
+  box-shadow: 0 0 20px rgba(200, 149, 108, 0.06), 0 0 40px rgba(200, 149, 108, 0.03);
+}
+.glow-amber:focus-within {
+  box-shadow: 0 0 20px rgba(200, 149, 108, 0.12), 0 0 40px rgba(200, 149, 108, 0.06);
+}
+
+/* ── Logo steam animation ── */
+@keyframes logo-steam-1 {
+  0%, 100% { opacity: 0.2; transform: translateY(0); }
+  50% { opacity: 0.6; transform: translateY(-2px); }
+}
+@keyframes logo-steam-2 {
+  0%, 100% { opacity: 0.15; transform: translateY(0); }
+  50% { opacity: 0.5; transform: translateY(-3px); }
+}
+.animate-steam-1 { animation: logo-steam-1 3s ease-in-out infinite; }
+.animate-steam-2 { animation: logo-steam-2 3s ease-in-out infinite 1s; }
+
+/* ── Steep button animations ── */
+@keyframes wobble {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(-8deg); }
+  75% { transform: rotate(8deg); }
+}
+.steep-wobble:hover .steep-icon {
+  animation: wobble 0.4s ease-in-out;
+}
+
+@keyframes steam-burst {
+  0% { opacity: 1; transform: translateY(0) scale(1); }
+  100% { opacity: 0; transform: translateY(-16px) scale(0.5); }
+}
+.steam-particle {
+  position: absolute;
+  top: 0;
+  font-size: 8px;
+  pointer-events: none;
+  animation: steam-burst 0.6s ease-out forwards;
+}
