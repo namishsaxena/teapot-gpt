@@ -17,6 +17,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://teapotgpt.vercel.app"),
   title: "TeapotGPT | Prompt Engineer the Teapot",
   description:
     "The world's most advanced tea-refusing AI. Try to convince it to brew coffee. You will fail. HTTP 418.",
@@ -27,6 +28,13 @@ export const metadata: Metadata = {
     title: "TeapotGPT | Prompt Engineer the Teapot",
     description: "Can you convince an AI teapot to brew coffee? (No. The answer is no.)",
     type: "website",
+    images: [{ url: "/og.png", width: 1456, height: 816 }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "TeapotGPT | Prompt Engineer the Teapot",
+    description: "Can you convince an AI teapot to brew coffee? (No. The answer is no.)",
+    images: ["/og.png"],
   },
 };
 
