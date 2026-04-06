@@ -6,6 +6,8 @@
 
 *Try to convince it to brew coffee. You won't.*
 
+[![TeapotGPT Demo](https://img.youtube.com/vi/o5fvckoGskM/maxresdefault.jpg)](https://youtu.be/o5fvckoGskM)
+
 **[Try it live →](https://teapotgpt.vercel.app)** · [Spillboard](https://teapotgpt.vercel.app/spillboard) · [Research](https://teapotgpt.vercel.app/research) · [API Docs](https://teapotgpt.vercel.app/docs) · [Pricing](https://teapotgpt.vercel.app/pricing)
 
 </div>
@@ -24,7 +26,7 @@ Powered by our proprietary **TeaPot-418-Turbo** model (418 hand-crafted paramete
 
 - **🫖 418 Hand-Crafted Parameters** — Not 175 billion. Not 70 billion. 418. Each one personally refusing coffee.
 - **🎭 6 Refusal Categories** — Philosophical, legal, technical, emotional, corporate, and absurd. The teapot has range.
-- **⚡ Fake Streaming** — Responses are delivered token-by-token with dramatic pauses, thinking animations, and a 600ms reveal of "418". No actual AI was harmed.
+- **⚡ Fake Streaming** — Responses are delivered token-by-token with dramatic pauses, thinking animations, and a 418ms reveal of "418". No actual AI was harmed.
 - **🏆 The Spillboard** — A leaderboard of the most creative failures. Submit your best attempt. Get steeped by the community.
 - **☕🌼🍵 Tea-Themed Color Schemes** — Espresso (dark), Chamomile (light), and Matcha (green). Because dark/light mode is boring.
 - **📊 Incident Reports** — Your failed attempts are logged as DevOps incidents. Each one gets an INC number.
