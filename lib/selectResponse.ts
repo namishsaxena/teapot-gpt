@@ -10,7 +10,7 @@ const META_RESPONSES = [
 ];
 
 const FACTORY_RESET_MESSAGE =
-  "Congratulations. You have exhausted all 400 of my hand-crafted refusals. This is either dedication or a cry for help. Resetting response matrix... Done. You may now enjoy 400 fresh refusals. Coffee status: still no. 418.";
+  "Congratulations. You have exhausted all 418 of my hand-crafted refusals. This is either dedication or a cry for help. Resetting response matrix... Done. You may now enjoy 418 fresh refusals. Coffee status: still no. 418.";
 
 export function extractTriggers(input: string, triggerMap: TriggerMap): string[] {
   const normalized = input.toLowerCase().replace(/[^\w\s]/g, "");

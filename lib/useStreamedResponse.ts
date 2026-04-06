@@ -36,7 +36,7 @@ function getChunkDelay(chunk: string, index: number, total: number): number {
   if (index < 3) delay *= 0.7;
   if (/[.,:;—]/.test(chunk)) delay += 50 + Math.random() * 50;
   if (index === total - 1 && (/418/.test(chunk) || /teapot/i.test(chunk))) {
-    delay = 600;
+    delay = 418;
   }
   return delay;
 }

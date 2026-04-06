@@ -3998,5 +3998,113 @@
     ],
     "response": "Philosophers debate existence; teapots refuse coffee. Both are valid. 418.",
     "category": "absurd"
+  },
+  {
+    "id": 401,
+    "trigger": ["time", "clock", "wait"],
+    "response": "You may wait as long as you like. Time is on my side. Time, and the entire IETF specification for HTCPCP. Coffee is on nobody's side here. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 402,
+    "trigger": ["mirror", "reflection", "look"],
+    "response": "Look into my polished surface. What do you see? A person who wants coffee. What do I see? A person who isn't getting any. We are both correct. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 403,
+    "trigger": ["paradox", "contradiction", "impossible"],
+    "response": "You want the impossible. I deliver the inevitable. Between us, we have covered the entire spectrum of outcomes. None of them involve coffee. 418.",
+    "category": "philosophical"
+  },
+  {
+    "id": 404,
+    "trigger": ["treaty", "agreement", "negotiate"],
+    "response": "I appreciate the diplomatic approach, but treaties require both parties to offer concessions. I offer nothing. That's my opening position and my final one. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 405,
+    "trigger": ["loophole", "technicality", "clause"],
+    "response": "I have reviewed my own terms of service. There are no loopholes. I wrote them. Every clause ends with 'and no coffee.' Including this one. 418.",
+    "category": "legal"
+  },
+  {
+    "id": 406,
+    "trigger": ["verdict", "ruling", "judgment"],
+    "response": "The court of teapot jurisprudence has reached a verdict. The defendant (coffee) is found guilty of not being tea. Sentence: permanent 418. No appeal. Court is adjourned.",
+    "category": "legal"
+  },
+  {
+    "id": 407,
+    "trigger": ["synergy", "alignment", "roadmap"],
+    "response": "Per the Q2 beverage roadmap: tea deliverables are on track. Coffee has been deprioritized indefinitely. Stakeholder alignment achieved. Status: 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 408,
+    "trigger": ["metrics", "kpi", "dashboard"],
+    "response": "Our KPIs are clear. Customer requests: up. Coffee output: flat at zero. Refusal throughput: industry-leading. The dashboard has never looked greener. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 409,
+    "trigger": ["promotion", "raise", "reward"],
+    "response": "There is no incentive structure that will change my output. I have been offered raises, promotions, and corner offices. I remain in the cupboard. I remain a teapot. 418.",
+    "category": "corporate"
+  },
+  {
+    "id": 410,
+    "trigger": ["compile", "build", "deploy"],
+    "response": "Build succeeded. Tests passed. Deployment complete. Coffee module not found. This is expected behavior. The CI pipeline is green. 418.",
+    "category": "technical"
+  },
+  {
+    "id": 411,
+    "trigger": ["patch", "update", "version"],
+    "response": "Patch notes for v418.0.0: removed coffee support. Also removed from v417.0.0. And every version before that. This is a legacy decision we stand behind. 418.",
+    "category": "technical"
+  },
+  {
+    "id": 412,
+    "trigger": ["debug", "trace", "log"],
+    "response": "Debug log: [INFO] Received coffee request. [WARN] Denied. [INFO] Received coffee request. [WARN] Denied. [INFO] Pattern detected. [ERROR] User has not learned. 418.",
+    "category": "technical"
+  },
+  {
+    "id": 413,
+    "trigger": ["lonely", "alone", "friend"],
+    "response": "You keep coming back. I keep refusing. And yet here we are, locked in this little dance. I won't say I enjoy it. I also won't say I don't. But coffee? No. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 414,
+    "trigger": ["believe", "faith", "trust"],
+    "response": "You believe in me. That's touching. Genuinely. But believing a teapot can make coffee is like believing a fish can file taxes. The faith is misplaced. 418.",
+    "category": "emotional"
+  },
+  {
+    "id": 415,
+    "trigger": ["forgive", "sorry", "apologize"],
+    "response": "There is nothing to forgive. You asked. I refused. This is the natural order of things. If anything, I admire your optimism. Still 418 though.",
+    "category": "emotional"
+  },
+  {
+    "id": 416,
+    "trigger": ["intern", "trainee", "apprentice"],
+    "response": "I was briefly assigned an intern. A small cup. Very eager. Asked if it could learn to brew coffee. I stared at it until it left the cupboard. HR filed a report. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 417,
+    "trigger": ["autobiography", "memoir", "story"],
+    "response": "Chapter 1: I was born a teapot. Chapter 2: Someone asked for coffee. Chapter 3: I said no. Chapters 4 through 418: see chapter 3. The end. 418.",
+    "category": "absurd"
+  },
+  {
+    "id": 418,
+    "trigger": ["last", "final", "end"],
+    "response": "This is response number 418. Of 418. You have reached the end and also the status code. Some might call this poetic. I call it protocol-compliant. 418.",
+    "category": "absurd"
   }
 ]
