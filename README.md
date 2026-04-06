@@ -70,6 +70,8 @@ KV_REST_API_TOKEN=...
 
 [DEV.to #418 Challenge](https://dev.to/challenges/418) — April Fools 2026
 
+**Read the full story:** [I built an AI with a 100% refusal rate. It insisted on writing this post.](https://dev.to/namish_saxena/i-built-an-ai-with-a-100-refusal-rate-it-insisted-on-writing-this-post-327n)
+
 ## License
 
 Licensed under [RFC 2324](https://datatracker.ietf.org/doc/html/rfc2324). You may not use this software to brew coffee.
