@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "API Documentation | TeapotGPT",
@@ -65,10 +64,7 @@ export default function DocsPage() {
     <main className="min-h-screen bg-dot-grid">
       <div className="border-b border-theme-border">
         <div className="max-w-3xl mx-auto px-4 py-8">
-          <Link href="/" className="text-sm text-muted hover:text-muted-more font-mono transition-colors">
-            &larr; Back to TeapotGPT
-          </Link>
-          <h1 className="text-2xl sm:text-3xl font-bold mt-4">API Documentation</h1>
+          <h1 className="text-2xl sm:text-3xl font-bold">API Documentation</h1>
           <p className="text-muted text-sm mt-2 font-mono">
             Complete reference for the TeaPot-418-Turbo API. Version 418.0.0
           </p>

@@ -79,10 +79,7 @@ export default function PricingPage() {
     <main className="min-h-screen bg-dot-grid">
       <div className="border-b border-theme-border">
         <div className="max-w-4xl mx-auto px-4 py-8 text-center">
-          <Link href="/" className="text-sm text-muted hover:text-muted-more font-mono transition-colors">
-            &larr; Back to TeapotGPT
-          </Link>
-          <h1 className="text-2xl sm:text-3xl font-bold mt-4">Pricing</h1>
+          <h1 className="text-2xl sm:text-3xl font-bold">Pricing</h1>
           <p className="text-muted text-sm mt-2 font-mono">
             Simple, transparent pricing. All plans include being refused coffee.
           </p>

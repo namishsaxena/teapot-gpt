@@ -4,6 +4,7 @@ import Script from "next/script";
 import { Space_Grotesk, Geist_Mono } from "next/font/google";
 import { ThemeProvider, ThemeSwitcher } from "@/components/ThemeProvider";
 import { Logo } from "@/components/Logo";
+import { MobileNav } from "@/components/MobileNav";
 import "./globals.css";
 
 const spaceGrotesk = Space_Grotesk({
@@ -70,10 +71,7 @@ export default function RootLayout({
                 <Link href="/docs" className="text-muted hover:text-tea-amber transition-colors">Docs</Link>
                 <Link href="/pricing" className="text-muted hover:text-tea-amber transition-colors">Pricing</Link>
               </div>
-              <div className="sm:hidden flex items-center gap-3 text-sm font-mono">
-                <Link href="/spillboard" className="text-muted hover:text-tea-amber transition-colors">Spillboard</Link>
-                <Link href="/about" className="text-muted hover:text-tea-amber transition-colors">About</Link>
-              </div>
+              <MobileNav />
             </div>
           </nav>
           <div id="main" className="flex-1">{children}</div>
