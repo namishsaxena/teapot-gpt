@@ -78,7 +78,7 @@ export default function RootLayout({
           <footer className="sticky bottom-0 z-40 border-t border-theme-border bg-bg/80 backdrop-blur-md py-3">
             <div className="max-w-5xl mx-auto px-4 flex items-center justify-between">
               <span className="text-sm text-muted font-mono">
-                RFC 2324 &middot; 418 parameters &middot; 0 coffees brewed since 1998 &middot; Series A: Pending
+                v0.418.0 &middot; RFC 2324 &middot; 418 parameters &middot; 0 coffees brewed since 1998 &middot; Series A: Pending
               </span>
               <ThemeSwitcher />
             </div>
